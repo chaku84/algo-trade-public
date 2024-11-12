@@ -1,0 +1,1039 @@
+2024-10-21 03:47:52,250 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:48:38,224 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:48:51,482 - Already Logged In!
+2024-10-21 03:48:51,499 - right: 5px;
+2024-10-21 03:48:52,648 - search button length: 1
+2024-10-21 03:49:29,530 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:49:45,346 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:50:01,352 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:50:30,952 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:50:59,684 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:51:11,700 - Already Logged In!
+2024-10-21 03:51:11,716 - right: 5px;
+2024-10-21 03:51:12,899 - search button length: 1
+2024-10-21 03:51:13,960 - search button length: 2
+2024-10-21 03:51:17,833 - curr_date: 31/10/23, nearest_expiry_str: 2023-11-01
+2024-10-21 03:51:17,834 - curr_date: 31/10/23
+2024-10-21 03:51:17,834 - day_diff: -1
+2024-10-21 03:51:17,834 - curr_clock: 09:15
+2024-10-21 03:51:17,834 - close_price: 43198.25
+2024-10-21 03:51:22,038 - Found 1 Minute dropdown
+2024-10-21 03:51:22,744 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 03:51:22,744 - pixel_diff: 6.7272727272727275
+2024-10-21 03:51:22,744 - diff_min: 19
+2024-10-21 03:51:22,744 - Number of shifts: 0, X Offset: 208.1818181818182
+2024-10-21 03:51:22,751 - premium clock: 09:15
+2024-10-21 03:51:24,856 - 1105.6363636363635 1347.8181818181818
+2024-10-21 03:51:25,136 - extracted_text: 
+2024-10-21 03:53:52,591 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:54:06,703 - Already Logged In!
+2024-10-21 03:54:06,722 - right: 5px;
+2024-10-21 03:54:07,881 - search button length: 1
+2024-10-21 03:54:17,720 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:54:30,494 - Already Logged In!
+2024-10-21 03:54:30,509 - right: 5px;
+2024-10-21 03:54:31,660 - search button length: 1
+2024-10-21 03:55:57,227 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:56:10,565 - Already Logged In!
+2024-10-21 03:56:10,585 - right: 390px;
+2024-10-21 03:56:11,617 - search button length: 1
+2024-10-21 03:56:12,761 - search button length: 2
+2024-10-21 03:56:16,629 - curr_date: 31/10/23, nearest_expiry_str: 2023-11-01
+2024-10-21 03:56:16,629 - curr_date: 31/10/23
+2024-10-21 03:56:16,629 - day_diff: -1
+2024-10-21 03:56:16,629 - curr_clock: 09:15
+2024-10-21 03:56:16,629 - close_price: 43198.25
+2024-10-21 03:56:20,766 - Found 1 Minute dropdown
+2024-10-21 03:56:21,199 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 03:56:21,213 - pixel_diff: 6.7272727272727275
+2024-10-21 03:56:21,213 - diff_min: 19
+2024-10-21 03:56:21,213 - Number of shifts: 0, X Offset: 208.1818181818182
+2024-10-21 03:56:21,220 - premium clock: 09:15
+2024-10-21 03:56:23,281 - 1105.6363636363635 1347.8181818181818
+2024-10-21 03:56:23,484 - extracted_text: Thu 02 Nov 23 09:15
+
+2024-10-21 03:56:23,986 - image time: Thu 02 Nov 23 09:15
+ & actual time: 09:15 matched successfully!
+2024-10-21 03:56:24,869 - BANKNIFTY-2023-11-01-43200-PE-09:15 O:497.10H:498.95L:497.10C:498.95V:5.27KOI:148.79K+1.15(+0.23%)
+2024-10-21 03:58:33,989 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:59:17,173 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:59:29,949 - Already Logged In!
+2024-10-21 03:59:29,963 - right: 5px;
+2024-10-21 03:59:31,122 - search button length: 1
+2024-10-21 03:59:42,881 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 03:59:55,738 - Already Logged In!
+2024-10-21 03:59:55,754 - right: 390px;
+2024-10-21 03:59:56,811 - search button length: 1
+2024-10-21 03:59:57,976 - search button length: 2
+2024-10-21 04:00:02,048 - curr_date: 01/01/24, nearest_expiry_str: 2024-01-03
+2024-10-21 04:00:02,049 - curr_date: 01/01/24
+2024-10-21 04:00:02,049 - day_diff: -1
+2024-10-21 04:00:02,049 - curr_clock: 09:15
+2024-10-21 04:00:02,049 - close_price: 48160.65
+2024-10-21 04:00:08,055 - Found 1 Minute dropdown
+2024-10-21 04:00:08,710 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 04:00:08,710 - pixel_diff: 6.7272727272727275
+2024-10-21 04:00:08,710 - diff_min: 19
+2024-10-21 04:00:08,710 - Number of shifts: 0, X Offset: 208.1818181818182
+2024-10-21 04:00:08,721 - premium clock: 09:15
+2024-10-21 04:00:10,895 - 1105.6363636363635 1347.8181818181818
+2024-10-21 04:00:11,164 - extracted_text: Thu 04 Jan 24 09:15
+
+2024-10-21 04:00:11,668 - image time: Thu 04 Jan 24 09:15
+ & actual time: 09:15 matched successfully!
+2024-10-21 04:00:12,689 - BANKNIFTY-2024-01-03-48200-PE-09:15 O:493.25H:494.00L:492.05C:493.95V:10.23KOI:217.43K+0.15(+0.03%)
+2024-10-21 04:05:59,286 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:06:12,945 - Already Logged In!
+2024-10-21 04:06:12,963 - right: 5px;
+2024-10-21 04:06:14,119 - search button length: 1
+2024-10-21 04:10:54,923 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:11:08,291 - Already Logged In!
+2024-10-21 04:11:08,310 - right: 390px;
+2024-10-21 04:11:09,340 - search button length: 2
+2024-10-21 04:11:13,413 - curr_date: 01/01/24, nearest_expiry_str: 2024-01-03
+2024-10-21 04:11:13,413 - curr_date: 01/01/24
+2024-10-21 04:11:13,413 - day_diff: -1
+2024-10-21 04:11:13,413 - curr_clock: 09:15
+2024-10-21 04:11:13,413 - close_price: 48160.65
+2024-10-21 04:22:16,916 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:22:31,325 - Already Logged In!
+2024-10-21 04:22:31,342 - right: 5px;
+2024-10-21 04:22:32,489 - search button length: 1
+2024-10-21 04:22:50,469 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:23:03,320 - Already Logged In!
+2024-10-21 04:23:03,335 - right: 5px;
+2024-10-21 04:23:04,495 - search button length: 1
+2024-10-21 04:23:38,138 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:23:51,453 - Already Logged In!
+2024-10-21 04:23:51,477 - right: 5px;
+2024-10-21 04:23:52,615 - search button length: 1
+2024-10-21 04:25:01,028 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:25:09,446 - Already Logged In!
+2024-10-21 04:25:09,464 - right: 5px;
+2024-10-21 04:25:10,624 - search button length: 1
+2024-10-21 04:25:49,107 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:25:56,954 - Already Logged In!
+2024-10-21 04:25:56,967 - right: 5px;
+2024-10-21 04:25:58,109 - search button length: 1
+2024-10-21 04:33:44,336 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:33:53,427 - Already Logged In!
+2024-10-21 04:33:53,442 - right: 5px;
+2024-10-21 04:33:54,580 - search button length: 1
+2024-10-21 04:36:59,408 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:37:05,720 - Already Logged In!
+2024-10-21 04:37:05,736 - right: 5px;
+2024-10-21 04:37:06,865 - search button length: 2
+2024-10-21 04:37:11,326 - curr_date: 01/01/24, nearest_expiry_str: 2024-01-03
+2024-10-21 04:37:11,326 - curr_date: 01/01/24
+2024-10-21 04:37:11,326 - day_diff: -1
+2024-10-21 04:37:11,326 - curr_clock: 09:15
+2024-10-21 04:37:11,326 - close_price: 48160.65
+2024-10-21 04:39:25,541 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:39:37,575 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:39:45,199 - Already Logged In!
+2024-10-21 04:39:45,216 - right: 5px;
+2024-10-21 04:39:46,360 - search button length: 1
+2024-10-21 04:40:04,342 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:40:12,860 - Already Logged In!
+2024-10-21 04:40:12,874 - right: 390px;
+2024-10-21 04:40:13,901 - search button length: 1
+2024-10-21 04:40:24,423 - search button length: 2
+2024-10-21 04:40:28,474 - curr_date: 01/01/24, nearest_expiry_str: 2024-01-03
+2024-10-21 04:40:28,474 - curr_date: 01/01/24
+2024-10-21 04:40:28,474 - day_diff: -1
+2024-10-21 04:40:28,474 - curr_clock: 09:16
+2024-10-21 04:40:28,474 - close_price: 48135.9
+2024-10-21 04:40:32,626 - Found 1 Minute dropdown
+2024-10-21 04:40:33,076 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 04:40:33,076 - pixel_diff: 6.7272727272727275
+2024-10-21 04:40:33,077 - diff_min: 18
+2024-10-21 04:40:33,077 - Number of shifts: 0, X Offset: 214.9090909090909
+2024-10-21 04:40:33,091 - premium clock: 09:16
+2024-10-21 04:40:35,137 - 1119.090909090909 1361.2727272727273
+2024-10-21 04:40:35,322 - extracted_text: 
+2024-10-21 04:40:36,724 - BANKNIFTY-2024-01-03-48200-PE-09:16 O:493.25H:494.00L:492.05C:493.95V:10.23KOI:217.43K+0.15(+0.03%)
+2024-10-21 04:42:21,621 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:42:29,745 - Already Logged In!
+2024-10-21 04:42:29,766 - right: 5px;
+2024-10-21 04:42:30,939 - search button length: 1
+2024-10-21 04:42:41,491 - search button length: 2
+2024-10-21 04:42:45,565 - curr_date: 01/01/24, nearest_expiry_str: 2024-01-03
+2024-10-21 04:42:45,565 - curr_date: 01/01/24
+2024-10-21 04:42:45,566 - day_diff: -1
+2024-10-21 04:42:45,566 - curr_clock: 09:16
+2024-10-21 04:42:45,566 - close_price: 48135.9
+2024-10-21 04:42:45,566 - entry_price: 493.95
+2024-10-21 04:56:29,460 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 04:56:37,592 - Already Logged In!
+2024-10-21 04:56:37,608 - right: 5px;
+2024-10-21 04:56:38,757 - search button length: 1
+2024-10-21 04:56:49,273 - search button length: 1
+2024-10-21 04:56:59,767 - search button length: 2
+2024-10-21 04:57:03,761 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 04:57:03,762 - curr_date: 16/10/24, nearest_expiry_str: None
+2024-10-21 04:57:03,762 - curr_date: 15/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 04:57:03,763 - curr_date: 15/10/24
+2024-10-21 04:57:03,763 - day_diff: 2
+2024-10-21 04:57:03,763 - curr_clock: 09:16
+2024-10-21 04:57:03,763 - close_price: 51974.0
+2024-10-21 04:57:03,763 - curr_clock: 09:17
+2024-10-21 04:57:03,763 - close_price: 51967.6
+2024-10-21 04:57:07,854 - Found 1 Minute dropdown
+2024-10-21 04:57:08,461 - {'day_diff': 1.5, 'start': '15:04', 'end': '10:28', 'minute_diff': 100}
+2024-10-21 04:57:08,461 - pixel_diff: 6.7272727272727275
+2024-10-21 04:57:08,461 - diff_min: 0
+2024-10-21 04:57:08,461 - {'day_diff': 2, 'start': '13:25', 'end': '15:03', 'minute_diff': 99}
+2024-10-21 04:57:08,461 - pixel_diff: 6.7272727272727275
+2024-10-21 04:57:08,461 - diff_min: 0
+2024-10-21 04:57:08,461 - {'day_diff': 2, 'start': '11:45', 'end': '13:24', 'minute_diff': 100}
+2024-10-21 04:57:08,461 - pixel_diff: 6.7272727272727275
+2024-10-21 04:57:08,461 - diff_min: 0
+2024-10-21 04:57:08,462 - {'day_diff': 2, 'start': '10:06', 'end': '11:44', 'minute_diff': 99}
+2024-10-21 04:57:08,462 - pixel_diff: 6.7272727272727275
+2024-10-21 04:57:08,462 - diff_min: 0
+2024-10-21 04:57:08,462 - {'day_diff': 2.5, 'start': '14:42', 'end': '10:05', 'minute_diff': 99}
+2024-10-21 04:57:08,462 - pixel_diff: 6.7272727272727275
+2024-10-21 04:57:08,462 - diff_min: 48
+2024-10-21 04:57:08,462 - Number of shifts: 11, X Offset: 13.090909090909065
+2024-10-21 04:57:20,038 - premium clock: 09:17
+2024-10-21 04:57:22,089 - 715.4545454545454 957.6363636363635
+2024-10-21 04:57:22,291 - extracted_text: Mon 14 Oct 24 09:17
+
+2024-10-21 04:57:22,796 - image time: Mon 14 Oct 24 09:17
+ & actual time: 09:17 matched successfully!
+2024-10-21 04:57:23,859 - BANKNIFTY-2024-10-16-52000-PE-09:17 O:735.60H:743.90L:722.00C:736.85V:7.08KOI:362.58K-3.40(-0.46%)
+2024-10-21 04:57:23,875 - entry_price: 736.85
+2024-10-21 05:25:16,537 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:25:24,452 - Already Logged In!
+2024-10-21 05:25:24,470 - right: 390px;
+2024-10-21 05:25:25,521 - search button length: 1
+2024-10-21 05:25:29,374 - search button length: 2
+2024-10-21 05:25:34,174 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:25:34,174 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:25:34,175 - curr_date: 16/10/24
+2024-10-21 05:25:34,175 - day_diff: 1
+2024-10-21 05:25:34,175 - curr_clock: 09:16
+2024-10-21 05:25:34,175 - close_price: 51860.4
+2024-10-21 05:25:34,175 - curr_clock: 09:17
+2024-10-21 05:25:34,175 - close_price: 51836.95
+2024-10-21 05:25:39,344 - Found 1 Minute dropdown
+2024-10-21 05:25:39,948 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 05:25:39,948 - pixel_diff: 6.7272727272727275
+2024-10-21 05:25:39,948 - diff_min: 0
+2024-10-21 05:25:39,948 - {'day_diff': 1, 'start': '13:48', 'end': '15:27', 'minute_diff': 100}
+2024-10-21 05:25:39,948 - pixel_diff: 6.7272727272727275
+2024-10-21 05:25:39,948 - diff_min: 0
+2024-10-21 05:25:39,948 - {'day_diff': 1, 'start': '12:09', 'end': '13:47', 'minute_diff': 99}
+2024-10-21 05:25:39,948 - pixel_diff: 6.7272727272727275
+2024-10-21 05:25:39,948 - diff_min: 0
+2024-10-21 05:25:39,948 - {'day_diff': 1, 'start': '10:29', 'end': '12:08', 'minute_diff': 100}
+2024-10-21 05:25:39,948 - pixel_diff: 6.7272727272727275
+2024-10-21 05:25:39,948 - diff_min: 0
+2024-10-21 05:25:39,948 - {'day_diff': 1.5, 'start': '15:04', 'end': '10:28', 'minute_diff': 100}
+2024-10-21 05:25:39,948 - pixel_diff: 6.7272727272727275
+2024-10-21 05:25:39,948 - diff_min: 71
+2024-10-21 05:25:39,948 - Number of shifts: 7, X Offset: -141.63636363636363
+2024-10-21 05:25:47,431 - premium clock: 09:17
+2024-10-21 05:25:49,578 - 406.0 648.1818181818182
+2024-10-21 05:25:49,785 - extracted_text: 
+2024-10-21 05:25:51,291 - BANKNIFTY-2024-10-16-51900-PE-09:17 O:340.10H:345.00L:333.65C:338.55V:26.43KOI:333.38K-0.65(-0.19%)
+2024-10-21 05:25:51,295 - entry_price: 338.55
+2024-10-21 05:27:37,828 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:27:46,085 - Already Logged In!
+2024-10-21 05:27:46,099 - right: 5px;
+2024-10-21 05:27:47,234 - search button length: 1
+2024-10-21 05:27:50,859 - search button length: 2
+2024-10-21 05:27:54,844 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:27:54,845 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:27:54,845 - curr_date: 16/10/24
+2024-10-21 05:27:54,845 - day_diff: 1
+2024-10-21 05:27:54,845 - curr_clock: 09:16
+2024-10-21 05:27:54,845 - close_price: 51860.4
+2024-10-21 05:27:54,845 - curr_clock: 09:17
+2024-10-21 05:27:54,845 - close_price: 51836.95
+2024-10-21 05:27:54,847 - entry_price: 338.55
+2024-10-21 05:28:33,247 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:28:40,996 - Already Logged In!
+2024-10-21 05:28:41,012 - right: 5px;
+2024-10-21 05:28:42,150 - search button length: 1
+2024-10-21 05:28:45,838 - search button length: 2
+2024-10-21 05:28:49,705 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:28:49,706 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:28:49,706 - curr_date: 16/10/24
+2024-10-21 05:28:49,706 - day_diff: 0
+2024-10-21 05:28:49,706 - curr_clock: 09:16
+2024-10-21 05:28:49,706 - close_price: 51860.4
+2024-10-21 05:28:49,707 - curr_clock: 09:17
+2024-10-21 05:28:49,707 - close_price: 51836.95
+2024-10-21 05:28:49,707 - entry_price: 338.55
+2024-10-21 05:30:46,281 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:30:54,112 - Already Logged In!
+2024-10-21 05:30:54,129 - right: 5px;
+2024-10-21 05:30:55,265 - search button length: 1
+2024-10-21 05:30:58,958 - search button length: 2
+2024-10-21 05:31:02,818 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:31:02,818 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:31:02,819 - curr_date: 16/10/24
+2024-10-21 05:31:02,819 - day_diff: 0
+2024-10-21 05:31:02,819 - curr_clock: 09:16
+2024-10-21 05:31:02,819 - close_price: 51860.4
+2024-10-21 05:31:02,819 - curr_clock: 09:17
+2024-10-21 05:31:02,819 - close_price: 51836.95
+2024-10-21 05:31:02,820 - entry_price: 338.55
+2024-10-21 05:32:24,648 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:32:32,527 - Already Logged In!
+2024-10-21 05:32:32,542 - right: 5px;
+2024-10-21 05:32:33,688 - search button length: 1
+2024-10-21 05:32:37,361 - search button length: 2
+2024-10-21 05:32:41,234 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:32:41,234 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:32:41,234 - curr_date: 16/10/24
+2024-10-21 05:32:41,234 - day_diff: 0
+2024-10-21 05:32:41,234 - curr_clock: 09:16
+2024-10-21 05:32:41,234 - close_price: 51860.4
+2024-10-21 05:32:41,235 - curr_clock: 09:17
+2024-10-21 05:32:41,235 - close_price: 51836.95
+2024-10-21 05:32:45,450 - Found 1 Minute dropdown
+2024-10-21 05:32:46,009 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 05:32:46,009 - pixel_diff: 6.7272727272727275
+2024-10-21 05:32:46,010 - diff_min: 0
+2024-10-21 05:32:46,010 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 05:32:46,010 - pixel_diff: 6.7272727272727275
+2024-10-21 05:32:46,010 - diff_min: 0
+2024-10-21 05:32:46,010 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 05:32:46,010 - pixel_diff: 6.7272727272727275
+2024-10-21 05:32:46,010 - diff_min: 0
+2024-10-21 05:32:46,010 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 05:32:46,010 - pixel_diff: 6.7272727272727275
+2024-10-21 05:32:46,010 - diff_min: 94
+2024-10-21 05:32:46,010 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 05:32:49,152 - premium clock: 09:17
+2024-10-21 05:32:51,204 - 110 352.1818181818182
+2024-10-21 05:32:51,420 - extracted_text: 16 Oct 24 09:40
+
+2024-10-21 05:32:52,801 - BANKNIFTY-2024-10-16-51900-PE-09:17 O:86.95H:90.20L:82.40C:85.50V:1.11MOI:5.9M-0.80(-0.93%)
+2024-10-21 05:32:52,802 - premium clock: 09:18
+2024-10-21 05:32:54,458 - BANKNIFTY-2024-10-16-51900-PE-09:18 O:85.10H:85.85L:70.90C:73.20V:1.29MOI:6.1M-12.30(-14.39%)
+2024-10-21 05:32:54,458 - premium clock: 09:20
+2024-10-21 05:32:56,126 - BANKNIFTY-2024-10-16-51900-PE-09:20 O:85.10H:85.85L:70.90C:73.20V:1.29MOI:6.1M-12.30(-14.39%)
+2024-10-21 05:32:56,126 - premium clock: 09:23
+2024-10-21 05:32:57,796 - BANKNIFTY-2024-10-16-51900-PE-09:23 O:72.60H:75.05L:64.80C:64.80V:1.77MOI:6.1M-8.40(-11.48%)
+2024-10-21 05:32:57,796 - premium clock: 09:27
+2024-10-21 05:32:59,440 - BANKNIFTY-2024-10-16-51900-PE-09:27 O:67.00H:68.55L:59.55C:63.15V:1.92MOI:6.1M-1.65(-2.55%)
+2024-10-21 05:32:59,440 - premium clock: 09:32
+2024-10-21 05:33:11,132 - BANKNIFTY-2024-10-16-51900-PE-09:32 O:67.00H:68.55L:59.55C:63.15V:1.92MOI:6.1M-1.65(-2.55%)
+2024-10-21 05:33:11,133 - premium clock: 09:38
+2024-10-21 05:33:22,809 - BANKNIFTY-2024-10-16-51900-PE-09:38 O:67.00H:68.55L:59.55C:63.15V:1.92MOI:6.1M-1.65(-2.55%)
+2024-10-21 05:33:22,809 - premium clock: 09:45
+2024-10-21 05:33:34,467 - BANKNIFTY-2024-10-16-51900-PE-09:45 O:67.00H:68.55L:59.55C:63.15V:1.92MOI:6.1M-1.65(-2.55%)
+2024-10-21 05:33:34,468 - premium clock: 09:53
+2024-10-21 05:33:46,142 - BANKNIFTY-2024-10-16-51900-PE-09:53 O:67.00H:68.55L:59.55C:63.15V:1.92MOI:6.1M-1.65(-2.55%)
+2024-10-21 05:33:46,142 - premium clock: 10:02
+2024-10-21 05:33:50,441 - BANKNIFTY-2024-10-16-51900-PE-10:02 O:57.30H:60.15L:49.15C:50.55V:1.89MOI:7.16M-5.05(-9.08%)
+2024-10-21 05:33:50,442 - premium clock: 10:12
+2024-10-21 05:33:52,081 - BANKNIFTY-2024-10-16-51900-PE-10:12 O:50.35H:60.50L:50.10C:59.45V:1.54MOI:7.16M+8.90(+17.61%)
+2024-10-21 05:33:52,081 - premium clock: 10:23
+2024-10-21 05:33:53,712 - BANKNIFTY-2024-10-16-51900-PE-10:23 O:59.50H:60.35L:54.95C:58.40V:826.26KOI:7.16M-1.05(-1.77%)
+2024-10-21 05:33:53,712 - premium clock: 10:35
+2024-10-21 05:33:55,341 - BANKNIFTY-2024-10-16-51900-PE-10:35 O:57.45H:59.35L:48.65C:51.90V:1.1MOI:7.34M-6.50(-11.13%)
+2024-10-21 05:33:55,341 - premium clock: 10:48
+2024-10-21 05:33:57,007 - BANKNIFTY-2024-10-16-51900-PE-10:48 O:50.75H:56.50L:50.45C:55.35V:804.84KOI:7.34M+3.45(+6.65%)
+2024-10-21 05:33:57,007 - premium clock: 11:02
+2024-10-21 05:33:58,673 - BANKNIFTY-2024-10-16-51900-PE-11:02 O:55.60H:58.55L:49.10C:50.40V:1.04MOI:7.34M-4.95(-8.94%)
+2024-10-21 05:33:58,673 - premium clock: 11:17
+2024-10-21 05:34:07,978 - BANKNIFTY-2024-10-16-51900-PE-11:17 O:49.85H:53.90L:45.65C:49.05V:1.2MOI:7.82M-1.35(-2.68%)
+2024-10-21 05:34:07,978 - premium clock: 11:33
+2024-10-21 05:34:09,620 - BANKNIFTY-2024-10-16-51900-PE-11:33 O:49.85H:53.90L:45.65C:49.05V:1.2MOI:7.82M-1.35(-2.68%)
+2024-10-21 05:34:09,621 - premium clock: 11:50
+2024-10-21 05:34:11,266 - BANKNIFTY-2024-10-16-51900-PE-11:50 O:48.60H:48.95L:44.85C:47.45V:809.18KOI:7.82M-1.60(-3.26%)
+2024-10-21 05:34:11,266 - premium clock: 12:08
+2024-10-21 05:34:17,984 - BANKNIFTY-2024-10-16-51900-PE-12:08 O:47.50H:53.05L:47.35C:52.55V:954.06KOI:7.82M+5.10(+10.75%)
+2024-10-21 05:34:17,984 - premium clock: 12:27
+2024-10-21 05:34:29,658 - BANKNIFTY-2024-10-16-51900-PE-12:27 O:47.50H:53.05L:47.35C:52.55V:954.06KOI:7.82M+5.10(+10.75%)
+2024-10-21 05:34:29,658 - premium clock: 12:47
+2024-10-21 05:34:41,329 - BANKNIFTY-2024-10-16-51900-PE-12:47 O:47.50H:53.05L:47.35C:52.55V:954.06KOI:7.82M+5.10(+10.75%)
+2024-10-21 05:34:41,329 - premium clock: 13:08
+2024-10-21 05:34:44,405 - BANKNIFTY-2024-10-16-51900-PE-13:08 O:53.80H:74.40L:53.80C:60.35V:3.71MOI:8.14M+7.85(+14.95%)
+2024-10-21 05:34:44,405 - premium clock: 13:30
+2024-10-21 05:34:46,127 - BANKNIFTY-2024-10-16-51900-PE-13:30 O:60.90H:65.10L:57.95C:62.60V:1.44MOI:8.05M+2.25(+3.73%)
+2024-10-21 05:34:46,127 - premium clock: 13:53
+2024-10-21 05:34:52,780 - BANKNIFTY-2024-10-16-51900-PE-13:53 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:34:52,780 - premium clock: 14:17
+2024-10-21 05:35:04,418 - BANKNIFTY-2024-10-16-51900-PE-14:17 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:35:04,418 - premium clock: 14:42
+2024-10-21 05:35:16,080 - BANKNIFTY-2024-10-16-51900-PE-14:42 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:35:16,080 - premium clock: 15:08
+2024-10-21 05:35:27,750 - BANKNIFTY-2024-10-16-51900-PE-15:08 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:35:27,750 - premium clock: 15:35
+2024-10-21 05:35:39,463 - BANKNIFTY-2024-10-16-51900-PE-15:35 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:35:39,463 - premium clock: 16:03
+2024-10-21 05:35:51,143 - BANKNIFTY-2024-10-16-51900-PE-16:03 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:35:51,144 - premium clock: 16:32
+2024-10-21 05:36:02,811 - BANKNIFTY-2024-10-16-51900-PE-16:32 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:36:02,812 - premium clock: 17:02
+2024-10-21 05:36:14,492 - BANKNIFTY-2024-10-16-51900-PE-17:02 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:36:14,492 - premium clock: 17:33
+2024-10-21 05:36:26,196 - BANKNIFTY-2024-10-16-51900-PE-17:33 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:36:26,196 - premium clock: 18:05
+2024-10-21 05:36:37,876 - BANKNIFTY-2024-10-16-51900-PE-18:05 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:36:37,876 - premium clock: 18:38
+2024-10-21 05:36:49,572 - BANKNIFTY-2024-10-16-51900-PE-18:38 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:36:49,572 - premium clock: 19:12
+2024-10-21 05:37:01,220 - BANKNIFTY-2024-10-16-51900-PE-19:12 O:62.55H:63.90L:51.70C:53.30V:1.67MOI:8.05M-9.30(-14.86%)
+2024-10-21 05:37:01,221 - premium clock: 19:47
+2024-10-21 05:37:04,822 - BANKNIFTY-2024-10-16-51900-PE-19:47 O:56.50H:73.75L:56.50C:67.85V:2.76MOI:8.98M+11.75(+20.94%)
+2024-10-21 05:37:04,822 - premium clock: 20:23
+2024-10-21 05:37:06,483 - BANKNIFTY-2024-10-16-51900-PE-20:23 O:67.65H:72.20L:62.10C:67.55V:2.2MOI:8.98M-0.30(-0.44%)
+2024-10-21 05:37:06,484 - premium clock: 21:00
+2024-10-21 05:37:08,144 - BANKNIFTY-2024-10-16-51900-PE-21:00 O:67.00H:70.15L:62.00C:68.50V:1.79MOI:8.98M+0.95(+1.41%)
+2024-10-21 05:37:08,144 - premium clock: 21:38
+2024-10-21 05:37:09,778 - BANKNIFTY-2024-10-16-51900-PE-21:38 O:68.05H:78.75L:64.70C:70.00V:3.02MOI:8.99M+1.50(+2.19%)
+2024-10-21 05:37:09,778 - premium clock: 22:17
+2024-10-21 05:37:11,686 - BANKNIFTY-2024-10-16-51900-PE-22:17 O:69.85H:70.45L:61.55C:62.50V:1.71MOI:8.99M-7.50(-10.71%)
+2024-10-21 05:37:11,687 - premium clock: 22:57
+2024-10-21 05:37:16,349 - BANKNIFTY-2024-10-16-51900-PE-22:57 O:61.65H:61.90L:51.45C:53.60V:2.2MOI:8.99M-8.90(-14.24%)
+2024-10-21 05:37:16,349 - premium clock: 23:38
+2024-10-21 05:37:18,011 - BANKNIFTY-2024-10-16-51900-PE-23:38 O:52.80H:61.05L:51.70C:59.70V:1.23MOI:8.99M+6.10(+11.38%)
+2024-10-21 05:37:18,011 - premium clock: 24:20
+2024-10-21 05:37:19,650 - BANKNIFTY-2024-10-16-51900-PE-24:20 O:60.30H:70.60L:60.30C:69.05V:2.24MOI:8.99M+9.35(+15.66%)
+2024-10-21 05:37:19,650 - premium clock: 25:03
+2024-10-21 05:37:21,287 - BANKNIFTY-2024-10-16-51900-PE-25:03 O:70.00H:71.20L:65.20C:68.55V:1.56MOI:8.99M-0.50(-0.72%)
+2024-10-21 05:37:21,287 - premium clock: 25:47
+2024-10-21 05:37:22,920 - BANKNIFTY-2024-10-16-51900-PE-25:47 O:68.90H:80.00L:66.60C:71.40V:2.53MOI:9.07M+2.85(+4.16%)
+2024-10-21 05:37:22,920 - premium clock: 26:32
+2024-10-21 05:37:24,605 - BANKNIFTY-2024-10-16-51900-PE-26:32 O:68.90H:80.00L:66.60C:71.40V:2.53MOI:9.07M+2.85(+4.16%)
+2024-10-21 05:37:24,606 - premium clock: 27:18
+2024-10-21 05:37:26,250 - BANKNIFTY-2024-10-16-51900-PE-27:18 O:71.55H:74.70L:63.90C:72.00V:2.1MOI:9.07M+0.60(+0.84%)
+2024-10-21 05:37:26,250 - premium clock: 28:05
+2024-10-21 05:37:27,907 - BANKNIFTY-2024-10-16-51900-PE-28:05 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:37:27,907 - premium clock: 28:53
+2024-10-21 05:37:39,550 - BANKNIFTY-2024-10-16-51900-PE-28:53 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:37:39,550 - premium clock: 29:42
+2024-10-21 05:37:51,195 - BANKNIFTY-2024-10-16-51900-PE-29:42 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:37:51,195 - premium clock: 30:32
+2024-10-21 05:38:02,836 - BANKNIFTY-2024-10-16-51900-PE-30:32 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:38:02,836 - premium clock: 31:23
+2024-10-21 05:38:14,476 - BANKNIFTY-2024-10-16-51900-PE-31:23 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:38:14,476 - premium clock: 32:15
+2024-10-21 05:38:26,155 - BANKNIFTY-2024-10-16-51900-PE-32:15 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:38:26,156 - premium clock: 33:08
+2024-10-21 05:38:37,809 - BANKNIFTY-2024-10-16-51900-PE-33:08 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:38:37,809 - premium clock: 34:02
+2024-10-21 05:38:49,463 - BANKNIFTY-2024-10-16-51900-PE-34:02 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:38:49,464 - premium clock: 34:57
+2024-10-21 05:39:01,153 - BANKNIFTY-2024-10-16-51900-PE-34:57 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:01,153 - premium clock: 35:53
+2024-10-21 05:39:12,876 - BANKNIFTY-2024-10-16-51900-PE-35:53 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:12,876 - premium clock: 36:50
+2024-10-21 05:39:24,555 - BANKNIFTY-2024-10-16-51900-PE-36:50 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:24,555 - premium clock: 37:48
+2024-10-21 05:39:36,206 - BANKNIFTY-2024-10-16-51900-PE-37:48 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:36,206 - premium clock: 38:47
+2024-10-21 05:39:47,868 - BANKNIFTY-2024-10-16-51900-PE-38:47 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:47,868 - premium clock: 39:47
+2024-10-21 05:39:59,564 - BANKNIFTY-2024-10-16-51900-PE-39:47 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:39:59,564 - premium clock: 40:48
+2024-10-21 05:40:11,286 - BANKNIFTY-2024-10-16-51900-PE-40:48 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:40:11,286 - premium clock: 41:50
+2024-10-21 05:40:23,002 - BANKNIFTY-2024-10-16-51900-PE-41:50 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:40:23,002 - premium clock: 42:53
+2024-10-21 05:40:34,648 - BANKNIFTY-2024-10-16-51900-PE-42:53 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:40:34,648 - premium clock: 43:57
+2024-10-21 05:40:46,292 - BANKNIFTY-2024-10-16-51900-PE-43:57 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:40:46,292 - premium clock: 45:02
+2024-10-21 05:40:58,010 - BANKNIFTY-2024-10-16-51900-PE-45:02 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:40:58,010 - premium clock: 46:08
+2024-10-21 05:41:09,720 - BANKNIFTY-2024-10-16-51900-PE-46:08 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:41:09,720 - premium clock: 47:15
+2024-10-21 05:41:21,409 - BANKNIFTY-2024-10-16-51900-PE-47:15 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:41:21,409 - premium clock: 48:23
+2024-10-21 05:41:33,081 - BANKNIFTY-2024-10-16-51900-PE-48:23 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:41:33,081 - premium clock: 49:32
+2024-10-21 05:41:44,762 - BANKNIFTY-2024-10-16-51900-PE-49:32 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:41:44,762 - premium clock: 50:42
+2024-10-21 05:41:56,460 - BANKNIFTY-2024-10-16-51900-PE-50:42 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:41:56,460 - premium clock: 51:53
+2024-10-21 05:42:08,122 - BANKNIFTY-2024-10-16-51900-PE-51:53 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:42:08,122 - premium clock: 53:05
+2024-10-21 05:42:19,804 - BANKNIFTY-2024-10-16-51900-PE-53:05 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:42:19,805 - premium clock: 54:18
+2024-10-21 05:42:31,455 - BANKNIFTY-2024-10-16-51900-PE-54:18 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:42:31,456 - premium clock: 55:32
+2024-10-21 05:42:43,164 - BANKNIFTY-2024-10-16-51900-PE-55:32 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:42:43,164 - premium clock: 56:47
+2024-10-21 05:42:54,836 - BANKNIFTY-2024-10-16-51900-PE-56:47 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:42:54,837 - premium clock: 58:03
+2024-10-21 05:43:06,505 - BANKNIFTY-2024-10-16-51900-PE-58:03 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:43:06,505 - premium clock: 59:20
+2024-10-21 05:43:18,151 - BANKNIFTY-2024-10-16-51900-PE-59:20 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:43:18,151 - premium clock: 60:38
+2024-10-21 05:43:29,836 - BANKNIFTY-2024-10-16-51900-PE-60:38 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:43:29,836 - premium clock: 61:57
+2024-10-21 05:43:41,530 - BANKNIFTY-2024-10-16-51900-PE-61:57 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:43:41,530 - premium clock: 63:17
+2024-10-21 05:43:53,170 - BANKNIFTY-2024-10-16-51900-PE-63:17 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:43:53,170 - premium clock: 64:38
+2024-10-21 05:44:04,806 - BANKNIFTY-2024-10-16-51900-PE-64:38 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:44:04,806 - premium clock: 66:00
+2024-10-21 05:44:16,507 - BANKNIFTY-2024-10-16-51900-PE-66:00 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:44:16,507 - premium clock: 67:23
+2024-10-21 05:44:28,190 - BANKNIFTY-2024-10-16-51900-PE-67:23 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:44:28,191 - premium clock: 68:47
+2024-10-21 05:44:39,852 - BANKNIFTY-2024-10-16-51900-PE-68:47 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:44:39,852 - premium clock: 70:12
+2024-10-21 05:44:51,499 - BANKNIFTY-2024-10-16-51900-PE-70:12 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:44:51,500 - premium clock: 71:38
+2024-10-21 05:45:03,149 - BANKNIFTY-2024-10-16-51900-PE-71:38 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:45:03,149 - premium clock: 73:05
+2024-10-21 05:45:14,840 - BANKNIFTY-2024-10-16-51900-PE-73:05 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:45:14,841 - premium clock: 74:33
+2024-10-21 05:45:26,489 - BANKNIFTY-2024-10-16-51900-PE-74:33 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:45:26,489 - premium clock: 76:02
+2024-10-21 05:45:38,170 - BANKNIFTY-2024-10-16-51900-PE-76:02 O:71.00H:74.25L:67.15C:72.10V:1.17MOI:9.07M+0.10(+0.14%)
+2024-10-21 05:45:42,347 - Found 1 Minute dropdown
+2024-10-21 05:45:42,648 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 05:45:42,649 - pixel_diff: 6.7272727272727275
+2024-10-21 05:45:42,649 - diff_min: 0
+2024-10-21 05:45:42,649 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 05:45:42,649 - pixel_diff: 6.7272727272727275
+2024-10-21 05:45:42,649 - diff_min: 0
+2024-10-21 05:45:42,649 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 05:45:42,650 - pixel_diff: 6.7272727272727275
+2024-10-21 05:45:42,650 - diff_min: 0
+2024-10-21 05:45:42,650 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 05:45:42,650 - pixel_diff: 6.7272727272727275
+2024-10-21 05:45:42,650 - diff_min: 94
+2024-10-21 05:45:42,650 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 05:46:11,324 - premium clock: 09:17
+2024-10-21 05:46:18,996 - 110 352.1818181818182
+2024-10-21 05:46:19,277 - extracted_text: 15 PM 02:30
+
+2024-10-21 05:46:25,733 - BANKNIFTY-2024-10-16-52200-PE-09:17 O:398.10H:399.20L:397.85C:398.10V:21.92KOI:198.62K-0.65(-0.16%)
+2024-10-21 05:46:25,733 - premium clock: 09:18
+2024-10-21 05:46:37,391 - BANKNIFTY-2024-10-16-52200-PE-09:18 O:398.10H:399.20L:397.85C:398.10V:21.92KOI:198.62K-0.65(-0.16%)
+2024-10-21 05:46:37,391 - premium clock: 09:20
+2024-10-21 05:46:49,085 - BANKNIFTY-2024-10-16-52200-PE-09:20 O:398.10H:399.20L:397.85C:398.10V:21.92KOI:198.62K-0.65(-0.16%)
+2024-10-21 05:46:49,086 - premium clock: 09:23
+2024-10-21 05:47:00,766 - BANKNIFTY-2024-10-16-52200-PE-09:23 O:398.10H:399.20L:397.85C:398.10V:21.92KOI:198.62K-0.65(-0.16%)
+2024-10-21 05:47:00,766 - premium clock: 09:27
+2024-10-21 05:47:10,206 - BANKNIFTY-2024-10-16-52200-PE-09:27 O:327.95H:328.00L:324.80C:326.00V:14.07KOI:572.51K-0.55(-0.17%)
+2024-10-21 05:47:10,206 - premium clock: 09:32
+2024-10-21 05:47:12,024 - BANKNIFTY-2024-10-16-52200-PE-09:32 O:325.70H:326.45L:315.20C:315.25V:27.68KOI:573.95K-10.55(-3.24%)
+2024-10-21 05:47:12,025 - premium clock: 09:38
+2024-10-21 05:47:46,847 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:47:55,145 - Already Logged In!
+2024-10-21 05:47:55,161 - right: 5px;
+2024-10-21 05:47:56,321 - search button length: 1
+2024-10-21 05:48:00,282 - search button length: 2
+2024-10-21 05:48:04,221 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:48:04,222 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:48:04,222 - curr_date: 16/10/24
+2024-10-21 05:48:04,222 - day_diff: 0
+2024-10-21 05:48:04,222 - curr_clock: 09:16
+2024-10-21 05:48:04,222 - close_price: 51860.4
+2024-10-21 05:48:04,222 - curr_clock: 09:17
+2024-10-21 05:48:04,222 - close_price: 51836.95
+2024-10-21 05:48:23,286 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:48:31,150 - Already Logged In!
+2024-10-21 05:48:31,169 - right: 5px;
+2024-10-21 05:48:32,320 - search button length: 1
+2024-10-21 05:48:35,955 - search button length: 2
+2024-10-21 05:48:39,823 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:48:39,823 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:48:39,823 - curr_date: 16/10/24
+2024-10-21 05:48:39,823 - day_diff: 0
+2024-10-21 05:48:39,824 - curr_clock: 09:16
+2024-10-21 05:48:39,824 - close_price: 51860.4
+2024-10-21 05:48:39,824 - curr_clock: 09:17
+2024-10-21 05:48:39,824 - close_price: 51836.95
+2024-10-21 05:48:43,917 - Found 1 Minute dropdown
+2024-10-21 05:48:44,387 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 05:48:44,387 - pixel_diff: 6.7272727272727275
+2024-10-21 05:48:44,388 - diff_min: 0
+2024-10-21 05:48:44,388 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 05:48:44,388 - pixel_diff: 6.7272727272727275
+2024-10-21 05:48:44,388 - diff_min: 0
+2024-10-21 05:48:44,388 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 05:48:44,388 - pixel_diff: 6.7272727272727275
+2024-10-21 05:48:44,388 - diff_min: 0
+2024-10-21 05:48:44,388 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 05:48:44,388 - pixel_diff: 6.7272727272727275
+2024-10-21 05:48:44,389 - diff_min: 94
+2024-10-21 05:48:44,389 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 05:48:47,560 - premium clock: 09:17
+2024-10-21 05:48:49,733 - 110 352.1818181818182
+2024-10-21 05:48:49,972 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 05:48:51,358 - BANKNIFTY-2024-10-16-51900-PE-09:17 O:163.40H:163.40L:142.30C:152.45V:1.01MOI:2.1M-10.35(-6.36%)
+2024-10-21 05:48:51,359 - premium clock: 09:18
+2024-10-21 05:48:53,014 - BANKNIFTY-2024-10-16-51900-PE-09:18 O:150.10H:150.10L:118.55C:118.55V:1.86MOI:2.1M-33.90(-22.24%)
+2024-10-21 05:48:53,014 - premium clock: 09:20
+2024-10-21 05:48:54,680 - BANKNIFTY-2024-10-16-51900-PE-09:20 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 05:48:54,680 - premium clock: 09:23
+2024-10-21 05:48:56,318 - BANKNIFTY-2024-10-16-51900-PE-09:23 O:129.25H:130.35L:109.30C:119.50V:1.35MOI:3.09M-9.05(-7.04%)
+2024-10-21 05:48:56,318 - premium clock: 09:27
+2024-10-21 05:48:57,952 - BANKNIFTY-2024-10-16-51900-PE-09:27 O:120.25H:126.75L:113.95C:123.05V:1.24MOI:3.09M+3.55(+2.97%)
+2024-10-21 05:48:57,953 - premium clock: 09:32
+2024-10-21 05:48:59,635 - BANKNIFTY-2024-10-16-51900-PE-09:32 O:122.05H:122.05L:105.50C:114.20V:1.23MOI:4.03M-8.85(-7.19%)
+2024-10-21 05:48:59,635 - premium clock: 09:38
+2024-10-21 05:49:01,317 - BANKNIFTY-2024-10-16-51900-PE-09:38 O:110.95H:115.90L:103.00C:108.25V:1.26MOI:4.03M-5.95(-5.21%)
+2024-10-21 05:49:01,317 - premium clock: 09:45
+2024-10-21 05:49:02,947 - BANKNIFTY-2024-10-16-51900-PE-09:45 O:107.55H:124.75L:106.80C:120.95V:1.4MOI:4.03M+12.70(+11.73%)
+2024-10-21 05:49:02,947 - premium clock: 09:53
+2024-10-21 05:49:04,602 - BANKNIFTY-2024-10-16-51900-PE-09:53 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:49:04,603 - premium clock: 10:02
+2024-10-21 05:49:06,258 - BANKNIFTY-2024-10-16-51900-PE-10:02 O:117.70H:123.25L:101.00C:114.75V:1.44MOI:4.78M-0.30(-0.26%)
+2024-10-21 05:49:06,258 - premium clock: 10:12
+2024-10-21 05:49:07,904 - BANKNIFTY-2024-10-16-51900-PE-10:12 O:110.65H:115.45L:109.80C:110.65V:821.99KOI:4.78M-4.10(-3.57%)
+2024-10-21 05:49:07,904 - premium clock: 10:23
+2024-10-21 05:49:14,580 - BANKNIFTY-2024-10-16-51900-PE-10:23 O:108.65H:112.65L:97.80C:102.65V:1.49MOI:5.2M-8.00(-7.23%)
+2024-10-21 05:49:14,580 - premium clock: 10:35
+2024-10-21 05:49:21,261 - BANKNIFTY-2024-10-16-51900-PE-10:35 O:102.65H:103.40L:91.35C:101.30V:1.5MOI:5.2M-1.35(-1.32%)
+2024-10-21 05:49:21,261 - premium clock: 10:48
+2024-10-21 05:49:22,985 - BANKNIFTY-2024-10-16-51900-PE-10:48 O:98.30H:104.70L:92.80C:103.70V:1.09MOI:5.2M+2.40(+2.37%)
+2024-10-21 05:49:22,985 - premium clock: 11:02
+2024-10-21 05:49:29,647 - BANKNIFTY-2024-10-16-51900-PE-11:02 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:49:29,647 - premium clock: 11:17
+2024-10-21 05:49:41,332 - BANKNIFTY-2024-10-16-51900-PE-11:17 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:49:41,332 - premium clock: 11:33
+2024-10-21 05:49:52,997 - BANKNIFTY-2024-10-16-51900-PE-11:33 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:49:52,997 - premium clock: 11:50
+2024-10-21 05:50:04,792 - BANKNIFTY-2024-10-16-51900-PE-11:50 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:50:04,792 - premium clock: 12:08
+2024-10-21 05:50:16,506 - BANKNIFTY-2024-10-16-51900-PE-12:08 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:50:16,506 - premium clock: 12:27
+2024-10-21 05:50:28,168 - BANKNIFTY-2024-10-16-51900-PE-12:27 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:50:28,168 - premium clock: 12:47
+2024-10-21 05:50:39,822 - BANKNIFTY-2024-10-16-51900-PE-12:47 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:50:39,823 - premium clock: 13:08
+2024-10-21 05:50:51,481 - BANKNIFTY-2024-10-16-51900-PE-13:08 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:50:51,481 - premium clock: 13:30
+2024-10-21 05:51:03,158 - BANKNIFTY-2024-10-16-51900-PE-13:30 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:51:03,158 - premium clock: 13:53
+2024-10-21 05:51:14,824 - BANKNIFTY-2024-10-16-51900-PE-13:53 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:51:14,824 - premium clock: 14:17
+2024-10-21 05:51:26,486 - BANKNIFTY-2024-10-16-51900-PE-14:17 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:51:26,486 - premium clock: 14:42
+2024-10-21 05:51:38,142 - BANKNIFTY-2024-10-16-51900-PE-14:42 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:51:38,142 - premium clock: 15:08
+2024-10-21 05:51:49,840 - BANKNIFTY-2024-10-16-51900-PE-15:08 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:51:49,840 - premium clock: 15:35
+2024-10-21 05:52:01,582 - BANKNIFTY-2024-10-16-51900-PE-15:35 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:01,582 - premium clock: 16:03
+2024-10-21 05:52:13,276 - BANKNIFTY-2024-10-16-51900-PE-16:03 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:13,276 - premium clock: 16:32
+2024-10-21 05:52:24,916 - BANKNIFTY-2024-10-16-51900-PE-16:32 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:24,916 - premium clock: 17:02
+2024-10-21 05:52:36,567 - BANKNIFTY-2024-10-16-51900-PE-17:02 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:36,567 - premium clock: 17:33
+2024-10-21 05:52:48,226 - BANKNIFTY-2024-10-16-51900-PE-17:33 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:48,226 - premium clock: 18:05
+2024-10-21 05:52:59,870 - BANKNIFTY-2024-10-16-51900-PE-18:05 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:52:59,870 - premium clock: 18:38
+2024-10-21 05:53:11,549 - BANKNIFTY-2024-10-16-51900-PE-18:38 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:53:11,550 - premium clock: 19:12
+2024-10-21 05:53:23,229 - BANKNIFTY-2024-10-16-51900-PE-19:12 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:53:23,229 - premium clock: 19:47
+2024-10-21 05:53:34,899 - BANKNIFTY-2024-10-16-51900-PE-19:47 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:53:34,899 - premium clock: 20:23
+2024-10-21 05:53:46,564 - BANKNIFTY-2024-10-16-51900-PE-20:23 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:53:46,565 - premium clock: 21:00
+2024-10-21 05:53:58,279 - BANKNIFTY-2024-10-16-51900-PE-21:00 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:53:58,279 - premium clock: 21:38
+2024-10-21 05:54:10,067 - BANKNIFTY-2024-10-16-51900-PE-21:38 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:54:10,067 - premium clock: 22:17
+2024-10-21 05:54:22,009 - BANKNIFTY-2024-10-16-51900-PE-22:17 O:102.90H:117.35L:96.15C:96.15V:1.62MOI:5.54M-7.55(-7.28%)
+2024-10-21 05:54:22,010 - premium clock: 22:57
+2024-10-21 05:54:27,062 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 05:54:34,888 - Already Logged In!
+2024-10-21 05:54:34,904 - right: 5px;
+2024-10-21 05:54:36,048 - search button length: 1
+2024-10-21 05:54:39,750 - search button length: 2
+2024-10-21 05:54:43,623 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 05:54:43,624 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 05:54:43,624 - curr_date: 16/10/24
+2024-10-21 05:54:43,624 - day_diff: 0
+2024-10-21 05:54:43,624 - curr_clock: 09:16
+2024-10-21 05:54:43,624 - close_price: 51860.4
+2024-10-21 05:54:43,624 - curr_clock: 09:17
+2024-10-21 05:54:43,624 - close_price: 51836.95
+2024-10-21 05:54:47,975 - Found 1 Minute dropdown
+2024-10-21 05:54:48,528 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 05:54:48,529 - pixel_diff: 6.7272727272727275
+2024-10-21 05:54:48,529 - diff_min: 0
+2024-10-21 05:54:48,529 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 05:54:48,529 - pixel_diff: 6.7272727272727275
+2024-10-21 05:54:48,529 - diff_min: 0
+2024-10-21 05:54:48,529 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 05:54:48,529 - pixel_diff: 6.7272727272727275
+2024-10-21 05:54:48,529 - diff_min: 0
+2024-10-21 05:54:48,529 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 05:54:48,529 - pixel_diff: 6.7272727272727275
+2024-10-21 05:54:48,529 - diff_min: 94
+2024-10-21 05:54:48,529 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 05:54:51,686 - curr_minute: 557
+2024-10-21 05:54:51,686 - premium clock: 09:17
+2024-10-21 05:54:53,715 - 110 352.1818181818182
+2024-10-21 05:54:53,914 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 05:54:55,296 - BANKNIFTY-2024-10-16-51900-PE-09:17 O:163.40H:163.40L:142.30C:152.45V:1.01MOI:2.1M-10.35(-6.36%)
+2024-10-21 05:54:55,297 - curr_minute: 558
+2024-10-21 05:54:55,297 - premium clock: 09:18
+2024-10-21 05:54:56,933 - BANKNIFTY-2024-10-16-51900-PE-09:18 O:150.10H:150.10L:118.55C:118.55V:1.86MOI:2.1M-33.90(-22.24%)
+2024-10-21 05:54:56,933 - curr_minute: 560
+2024-10-21 05:54:56,933 - premium clock: 09:20
+2024-10-21 05:54:58,581 - BANKNIFTY-2024-10-16-51900-PE-09:20 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 05:54:58,582 - curr_minute: 563
+2024-10-21 05:54:58,582 - premium clock: 09:23
+2024-10-21 05:55:00,406 - BANKNIFTY-2024-10-16-51900-PE-09:23 O:129.25H:130.35L:109.30C:119.50V:1.35MOI:3.09M-9.05(-7.04%)
+2024-10-21 05:55:00,406 - curr_minute: 567
+2024-10-21 05:55:00,406 - premium clock: 09:27
+2024-10-21 05:55:02,049 - BANKNIFTY-2024-10-16-51900-PE-09:27 O:120.25H:126.75L:113.95C:123.05V:1.24MOI:3.09M+3.55(+2.97%)
+2024-10-21 05:55:02,049 - curr_minute: 572
+2024-10-21 05:55:02,049 - premium clock: 09:32
+2024-10-21 05:55:03,690 - BANKNIFTY-2024-10-16-51900-PE-09:32 O:122.05H:122.05L:105.50C:114.20V:1.23MOI:4.03M-8.85(-7.19%)
+2024-10-21 05:55:03,690 - curr_minute: 578
+2024-10-21 05:55:03,690 - premium clock: 09:38
+2024-10-21 05:55:05,354 - BANKNIFTY-2024-10-16-51900-PE-09:38 O:110.95H:115.90L:103.00C:108.25V:1.26MOI:4.03M-5.95(-5.21%)
+2024-10-21 05:55:05,354 - curr_minute: 585
+2024-10-21 05:55:05,354 - premium clock: 09:45
+2024-10-21 05:55:07,064 - BANKNIFTY-2024-10-16-51900-PE-09:45 O:107.55H:124.75L:106.80C:120.95V:1.4MOI:4.03M+12.70(+11.73%)
+2024-10-21 05:55:07,064 - curr_minute: 593
+2024-10-21 05:55:07,064 - premium clock: 09:53
+2024-10-21 05:55:08,709 - BANKNIFTY-2024-10-16-51900-PE-09:53 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:55:08,709 - curr_minute: 602
+2024-10-21 05:55:08,709 - premium clock: 10:02
+2024-10-21 05:55:20,358 - BANKNIFTY-2024-10-16-51900-PE-10:02 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:55:20,358 - curr_minute: 612
+2024-10-21 05:55:20,358 - premium clock: 10:12
+2024-10-21 05:55:32,011 - BANKNIFTY-2024-10-16-51900-PE-10:12 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:55:32,011 - curr_minute: 623
+2024-10-21 05:55:32,011 - premium clock: 10:23
+2024-10-21 05:55:43,651 - BANKNIFTY-2024-10-16-51900-PE-10:23 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:55:43,651 - curr_minute: 635
+2024-10-21 05:55:43,651 - premium clock: 10:35
+2024-10-21 05:55:55,300 - BANKNIFTY-2024-10-16-51900-PE-10:35 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:55:55,300 - curr_minute: 648
+2024-10-21 05:55:55,300 - premium clock: 10:48
+2024-10-21 05:56:06,962 - BANKNIFTY-2024-10-16-51900-PE-10:48 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:56:06,962 - curr_minute: 662
+2024-10-21 05:56:06,962 - premium clock: 11:02
+2024-10-21 05:56:18,681 - BANKNIFTY-2024-10-16-51900-PE-11:02 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:56:18,681 - curr_minute: 677
+2024-10-21 05:56:18,681 - premium clock: 11:17
+2024-10-21 05:56:30,351 - BANKNIFTY-2024-10-16-51900-PE-11:17 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:56:30,351 - curr_minute: 693
+2024-10-21 05:56:30,351 - premium clock: 11:33
+2024-10-21 05:56:42,048 - BANKNIFTY-2024-10-16-51900-PE-11:33 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:56:42,048 - curr_minute: 710
+2024-10-21 05:56:42,048 - premium clock: 11:50
+2024-10-21 05:56:53,724 - BANKNIFTY-2024-10-16-51900-PE-11:50 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:56:53,724 - curr_minute: 728
+2024-10-21 05:56:53,724 - premium clock: 12:08
+2024-10-21 05:57:05,400 - BANKNIFTY-2024-10-16-51900-PE-12:08 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:57:05,401 - curr_minute: 747
+2024-10-21 05:57:05,401 - premium clock: 12:27
+2024-10-21 05:57:17,112 - BANKNIFTY-2024-10-16-51900-PE-12:27 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:57:17,112 - curr_minute: 767
+2024-10-21 05:57:17,112 - premium clock: 12:47
+2024-10-21 05:57:28,775 - BANKNIFTY-2024-10-16-51900-PE-12:47 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:57:28,776 - curr_minute: 788
+2024-10-21 05:57:28,776 - premium clock: 13:08
+2024-10-21 05:57:40,452 - BANKNIFTY-2024-10-16-51900-PE-13:08 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:57:40,452 - curr_minute: 810
+2024-10-21 05:57:40,452 - premium clock: 13:30
+2024-10-21 05:57:52,111 - BANKNIFTY-2024-10-16-51900-PE-13:30 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:57:52,111 - curr_minute: 833
+2024-10-21 05:57:52,111 - premium clock: 13:53
+2024-10-21 05:58:03,814 - BANKNIFTY-2024-10-16-51900-PE-13:53 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:58:03,815 - curr_minute: 857
+2024-10-21 05:58:03,815 - premium clock: 14:17
+2024-10-21 05:58:15,493 - BANKNIFTY-2024-10-16-51900-PE-14:17 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:58:15,493 - curr_minute: 882
+2024-10-21 05:58:15,493 - premium clock: 14:42
+2024-10-21 05:58:27,227 - BANKNIFTY-2024-10-16-51900-PE-14:42 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:58:27,227 - curr_minute: 908
+2024-10-21 05:58:27,227 - premium clock: 15:08
+2024-10-21 05:58:38,903 - BANKNIFTY-2024-10-16-51900-PE-15:08 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:58:38,903 - curr_minute: 935
+2024-10-21 05:58:38,903 - premium clock: 15:35
+2024-10-21 05:58:50,576 - BANKNIFTY-2024-10-16-51900-PE-15:35 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:58:50,576 - curr_minute: 963
+2024-10-21 05:58:50,576 - premium clock: 16:03
+2024-10-21 05:59:02,241 - BANKNIFTY-2024-10-16-51900-PE-16:03 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:59:02,242 - curr_minute: 992
+2024-10-21 05:59:02,242 - premium clock: 16:32
+2024-10-21 05:59:13,965 - BANKNIFTY-2024-10-16-51900-PE-16:32 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:59:13,965 - curr_minute: 1022
+2024-10-21 05:59:13,965 - premium clock: 17:02
+2024-10-21 05:59:25,665 - BANKNIFTY-2024-10-16-51900-PE-17:02 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:59:25,665 - curr_minute: 1053
+2024-10-21 05:59:25,665 - premium clock: 17:33
+2024-10-21 05:59:37,349 - BANKNIFTY-2024-10-16-51900-PE-17:33 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:59:37,349 - curr_minute: 1085
+2024-10-21 05:59:37,349 - premium clock: 18:05
+2024-10-21 05:59:49,052 - BANKNIFTY-2024-10-16-51900-PE-18:05 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 05:59:49,052 - curr_minute: 1118
+2024-10-21 05:59:49,052 - premium clock: 18:38
+2024-10-21 06:00:00,781 - BANKNIFTY-2024-10-16-51900-PE-18:38 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:00,782 - curr_minute: 1152
+2024-10-21 06:00:00,782 - premium clock: 19:12
+2024-10-21 06:00:12,475 - BANKNIFTY-2024-10-16-51900-PE-19:12 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:12,475 - curr_minute: 1187
+2024-10-21 06:00:12,475 - premium clock: 19:47
+2024-10-21 06:00:24,154 - BANKNIFTY-2024-10-16-51900-PE-19:47 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:24,154 - curr_minute: 1223
+2024-10-21 06:00:24,154 - premium clock: 20:23
+2024-10-21 06:00:35,838 - BANKNIFTY-2024-10-16-51900-PE-20:23 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:35,838 - curr_minute: 1260
+2024-10-21 06:00:35,838 - premium clock: 21:00
+2024-10-21 06:00:47,550 - BANKNIFTY-2024-10-16-51900-PE-21:00 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:47,550 - curr_minute: 1298
+2024-10-21 06:00:47,550 - premium clock: 21:38
+2024-10-21 06:00:59,299 - BANKNIFTY-2024-10-16-51900-PE-21:38 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:00:59,300 - curr_minute: 1337
+2024-10-21 06:00:59,300 - premium clock: 22:17
+2024-10-21 06:01:10,984 - BANKNIFTY-2024-10-16-51900-PE-22:17 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:01:10,984 - curr_minute: 1377
+2024-10-21 06:01:10,984 - premium clock: 22:57
+2024-10-21 06:01:22,773 - BANKNIFTY-2024-10-16-51900-PE-22:57 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:01:22,773 - curr_minute: 1418
+2024-10-21 06:01:22,773 - premium clock: 23:38
+2024-10-21 06:01:34,472 - BANKNIFTY-2024-10-16-51900-PE-23:38 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:01:34,472 - curr_minute: 1460
+2024-10-21 06:01:34,472 - premium clock: 24:20
+2024-10-21 06:01:46,174 - BANKNIFTY-2024-10-16-51900-PE-24:20 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:01:46,174 - curr_minute: 1503
+2024-10-21 06:01:46,174 - premium clock: 25:03
+2024-10-21 06:01:57,846 - BANKNIFTY-2024-10-16-51900-PE-25:03 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:01:57,847 - curr_minute: 1547
+2024-10-21 06:01:57,847 - premium clock: 25:47
+2024-10-21 06:02:09,544 - BANKNIFTY-2024-10-16-51900-PE-25:47 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:02:09,544 - curr_minute: 1592
+2024-10-21 06:02:09,544 - premium clock: 26:32
+2024-10-21 06:02:21,235 - BANKNIFTY-2024-10-16-51900-PE-26:32 O:121.05H:124.55L:110.85C:115.05V:1.05MOI:4.78M-5.90(-4.88%)
+2024-10-21 06:02:21,235 - curr_minute: 1638
+2024-10-21 06:02:21,235 - premium clock: 27:18
+2024-10-21 06:02:35,032 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 06:02:43,836 - Already Logged In!
+2024-10-21 06:02:43,854 - right: 5px;
+2024-10-21 06:02:44,996 - search button length: 1
+2024-10-21 06:02:48,626 - search button length: 2
+2024-10-21 06:02:52,532 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 06:02:52,533 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 06:02:52,533 - curr_date: 16/10/24
+2024-10-21 06:02:52,533 - day_diff: 0
+2024-10-21 06:02:52,533 - curr_clock: 09:16
+2024-10-21 06:02:52,533 - close_price: 51860.4
+2024-10-21 06:02:52,533 - curr_clock: 09:17
+2024-10-21 06:02:52,533 - close_price: 51836.95
+2024-10-21 06:02:56,683 - Found 1 Minute dropdown
+2024-10-21 06:02:57,113 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 06:02:57,113 - pixel_diff: 6.7272727272727275
+2024-10-21 06:02:57,113 - diff_min: 0
+2024-10-21 06:02:57,113 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 06:02:57,113 - pixel_diff: 6.7272727272727275
+2024-10-21 06:02:57,113 - diff_min: 0
+2024-10-21 06:02:57,113 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 06:02:57,113 - pixel_diff: 6.7272727272727275
+2024-10-21 06:02:57,113 - diff_min: 0
+2024-10-21 06:02:57,113 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 06:02:57,113 - pixel_diff: 6.7272727272727275
+2024-10-21 06:02:57,113 - diff_min: 94
+2024-10-21 06:02:57,113 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 06:03:00,237 - curr_minute: 557
+2024-10-21 06:03:00,238 - premium clock: 09:17
+2024-10-21 06:03:02,261 - 110 352.1818181818182
+2024-10-21 06:03:02,458 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:03:02,963 - extracted_date: None
+2024-10-21 06:03:03,834 - BANKNIFTY-2024-10-16-51900-PE-09:17 O:163.40H:163.40L:142.30C:152.45V:1.01MOI:2.1M-10.35(-6.36%)
+2024-10-21 06:03:03,835 - curr_minute: 558
+2024-10-21 06:03:03,835 - premium clock: 09:18
+2024-10-21 06:03:05,573 - BANKNIFTY-2024-10-16-51900-PE-09:18 O:150.10H:150.10L:118.55C:118.55V:1.86MOI:2.1M-33.90(-22.24%)
+2024-10-21 06:03:05,573 - curr_minute: 559
+2024-10-21 06:03:05,573 - premium clock: 09:19
+2024-10-21 06:03:12,222 - BANKNIFTY-2024-10-16-51900-PE-09:19 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:03:12,222 - curr_minute: 560
+2024-10-21 06:03:12,222 - premium clock: 09:20
+2024-10-21 06:03:23,862 - BANKNIFTY-2024-10-16-51900-PE-09:20 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:03:23,862 - curr_minute: 561
+2024-10-21 06:03:23,862 - premium clock: 09:21
+2024-10-21 06:03:35,548 - BANKNIFTY-2024-10-16-51900-PE-09:21 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:03:35,549 - curr_minute: 562
+2024-10-21 06:03:35,549 - premium clock: 09:22
+2024-10-21 06:03:47,203 - BANKNIFTY-2024-10-16-51900-PE-09:22 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:03:47,203 - curr_minute: 563
+2024-10-21 06:03:47,203 - premium clock: 09:23
+2024-10-21 06:03:58,892 - BANKNIFTY-2024-10-16-51900-PE-09:23 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:03:58,892 - curr_minute: 564
+2024-10-21 06:03:58,892 - premium clock: 09:24
+2024-10-21 06:04:10,736 - BANKNIFTY-2024-10-16-51900-PE-09:24 O:118.50H:133.35L:110.50C:128.55V:1.62MOI:3.09M+10.00(+8.44%)
+2024-10-21 06:04:10,736 - curr_minute: 565
+2024-10-21 06:04:10,736 - premium clock: 09:25
+2024-10-21 06:04:23,600 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 06:04:31,439 - Already Logged In!
+2024-10-21 06:04:31,456 - right: 5px;
+2024-10-21 06:04:32,537 - search button length: 1
+2024-10-21 06:04:39,301 - search button length: 2
+2024-10-21 06:04:43,213 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 06:04:43,213 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 06:04:43,213 - curr_date: 16/10/24
+2024-10-21 06:04:43,213 - day_diff: 0
+2024-10-21 06:04:43,214 - curr_clock: 09:16
+2024-10-21 06:04:43,214 - close_price: 51860.4
+2024-10-21 06:04:43,214 - curr_clock: 09:17
+2024-10-21 06:04:43,214 - close_price: 51836.95
+2024-10-21 06:04:47,420 - Found 1 Minute dropdown
+2024-10-21 06:04:47,993 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 06:04:47,994 - pixel_diff: 6.7272727272727275
+2024-10-21 06:04:47,994 - diff_min: 0
+2024-10-21 06:04:47,994 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 06:04:47,994 - pixel_diff: 6.7272727272727275
+2024-10-21 06:04:47,994 - diff_min: 0
+2024-10-21 06:04:47,994 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 06:04:47,994 - pixel_diff: 6.7272727272727275
+2024-10-21 06:04:47,994 - diff_min: 0
+2024-10-21 06:04:47,994 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 06:04:47,994 - pixel_diff: 6.7272727272727275
+2024-10-21 06:04:47,994 - diff_min: 94
+2024-10-21 06:04:47,994 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 06:04:51,134 - curr_minute: 557
+2024-10-21 06:04:51,134 - premium clock: 09:17
+2024-10-21 06:04:53,157 - 110 352.1818181818182
+2024-10-21 06:04:53,393 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:04:53,900 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:04:53,900 - extracted_date min_diff: 1
+2024-10-21 06:04:53,900 - curr_minute: 557
+2024-10-21 06:04:53,900 - premium clock: 09:17
+2024-10-21 06:04:55,894 - 123.4545454545455 365.6363636363637
+2024-10-21 06:04:56,040 - extracted_text: Wed 16 Oct 24 09:20
+
+2024-10-21 06:04:56,542 - extracted_date: 2024-10-16 09:20:00
+2024-10-21 06:04:56,542 - extracted_date min_diff: 3
+2024-10-21 06:04:56,542 - curr_minute: 557
+2024-10-21 06:04:56,542 - premium clock: 09:17
+2024-10-21 06:04:58,672 - 177.27272727272737 419.45454545454555
+2024-10-21 06:04:58,908 - extracted_text: Wed 16 Oct 24 09:24
+
+2024-10-21 06:04:59,413 - extracted_date: 2024-10-16 09:24:00
+2024-10-21 06:04:59,413 - extracted_date min_diff: 7
+2024-10-21 06:04:59,414 - min_diff is too large
+2024-10-21 06:13:36,455 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 06:13:45,793 - Already Logged In!
+2024-10-21 06:13:45,814 - right: 5px;
+2024-10-21 06:13:46,911 - search button length: 1
+2024-10-21 06:14:06,881 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-21 06:14:15,250 - Already Logged In!
+2024-10-21 06:14:15,268 - right: 5px;
+2024-10-21 06:14:16,400 - search button length: 1
+2024-10-21 06:14:20,055 - search button length: 2
+2024-10-21 06:14:23,935 - curr_date: 17/10/24, nearest_expiry_str: None
+2024-10-21 06:14:23,935 - curr_date: 16/10/24, nearest_expiry_str: 2024-10-16
+2024-10-21 06:14:23,935 - curr_date: 16/10/24
+2024-10-21 06:14:23,935 - day_diff: 0
+2024-10-21 06:14:23,935 - curr_clock: 09:16
+2024-10-21 06:14:23,936 - close_price: 51860.4
+2024-10-21 06:14:23,936 - curr_clock: 09:17
+2024-10-21 06:14:23,936 - close_price: 51836.95
+2024-10-21 06:14:28,019 - Found 1 Minute dropdown
+2024-10-21 06:14:28,483 - {'day_diff': -0.5, 'start': '14:11', 'end': '09:34', 'minute_diff': 100}
+2024-10-21 06:14:28,483 - pixel_diff: 6.7272727272727275
+2024-10-21 06:14:28,483 - diff_min: 0
+2024-10-21 06:14:28,483 - {'day_diff': 0, 'start': '12:32', 'end': '14:10', 'minute_diff': 99}
+2024-10-21 06:14:28,483 - pixel_diff: 6.7272727272727275
+2024-10-21 06:14:28,483 - diff_min: 0
+2024-10-21 06:14:28,483 - {'day_diff': 0, 'start': '10:52', 'end': '12:31', 'minute_diff': 100}
+2024-10-21 06:14:28,483 - pixel_diff: 6.7272727272727275
+2024-10-21 06:14:28,483 - diff_min: 0
+2024-10-21 06:14:28,483 - {'day_diff': 0.5, 'start': '15:28', 'end': '10:51', 'minute_diff': 99}
+2024-10-21 06:14:28,484 - pixel_diff: 6.7272727272727275
+2024-10-21 06:14:28,484 - diff_min: 94
+2024-10-21 06:14:28,484 - Number of shifts: 3, X Offset: -296.3636363636364
+2024-10-21 06:14:31,626 - curr_minute: 557
+2024-10-21 06:14:31,627 - premium clock: 09:17
+2024-10-21 06:14:33,667 - 110 352.1818181818182
+2024-10-21 06:14:33,808 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:34,311 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:34,312 - extracted_date min_diff: 1
+2024-10-21 06:14:34,312 - curr_minute: 557
+2024-10-21 06:14:34,312 - premium clock: 09:17
+2024-10-21 06:14:36,301 - 110 352.1818181818182
+2024-10-21 06:14:36,458 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:36,962 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:36,962 - extracted_date min_diff: 1
+2024-10-21 06:14:36,962 - curr_minute: 557
+2024-10-21 06:14:36,962 - premium clock: 09:17
+2024-10-21 06:14:38,971 - 110 352.1818181818182
+2024-10-21 06:14:39,115 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:39,618 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:39,618 - extracted_date min_diff: 1
+2024-10-21 06:14:39,618 - curr_minute: 557
+2024-10-21 06:14:39,618 - premium clock: 09:17
+2024-10-21 06:14:41,633 - 110 352.1818181818182
+2024-10-21 06:14:41,793 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:42,298 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:42,299 - extracted_date min_diff: 1
+2024-10-21 06:14:42,299 - curr_minute: 557
+2024-10-21 06:14:42,299 - premium clock: 09:17
+2024-10-21 06:14:44,398 - 110 352.1818181818182
+2024-10-21 06:14:44,611 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:45,115 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:45,116 - extracted_date min_diff: 1
+2024-10-21 06:14:45,116 - curr_minute: 557
+2024-10-21 06:14:45,116 - premium clock: 09:17
+2024-10-21 06:14:47,136 - 110 352.1818181818182
+2024-10-21 06:14:47,314 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:47,820 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:47,821 - extracted_date min_diff: 1
+2024-10-21 06:14:47,821 - curr_minute: 557
+2024-10-21 06:14:47,821 - premium clock: 09:17
+2024-10-21 06:14:55,165 - 110 352.1818181818182
+2024-10-21 06:14:55,344 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:55,850 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:55,850 - extracted_date min_diff: 1
+2024-10-21 06:14:55,850 - curr_minute: 557
+2024-10-21 06:14:55,850 - premium clock: 09:17
+2024-10-21 06:14:57,958 - 110 352.1818181818182
+2024-10-21 06:14:58,113 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:14:58,619 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:14:58,619 - extracted_date min_diff: 1
+2024-10-21 06:14:58,620 - curr_minute: 557
+2024-10-21 06:14:58,620 - premium clock: 09:17
+2024-10-21 06:15:00,739 - 110 352.1818181818182
+2024-10-21 06:15:00,918 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:15:01,425 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:15:01,425 - extracted_date min_diff: 1
+2024-10-21 06:15:01,425 - curr_minute: 557
+2024-10-21 06:15:01,425 - premium clock: 09:17
+2024-10-21 06:15:03,862 - 110 352.1818181818182
+2024-10-21 06:15:04,027 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:15:04,533 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:15:04,533 - extracted_date min_diff: 1
+2024-10-21 06:15:04,534 - curr_minute: 557
+2024-10-21 06:15:04,534 - premium clock: 09:17
+2024-10-21 06:15:06,945 - 110 352.1818181818182
+2024-10-21 06:15:07,142 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:15:07,650 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:15:07,650 - extracted_date min_diff: 1
+2024-10-21 06:15:07,651 - curr_minute: 557
+2024-10-21 06:15:07,651 - premium clock: 09:17
+2024-10-21 06:15:15,079 - 110 352.1818181818182
+2024-10-21 06:15:15,254 - extracted_text: Wed 16 Oct 24 09:18)
+
+2024-10-21 06:15:15,759 - extracted_date: 2024-10-16 09:18:00
+2024-10-21 06:15:15,759 - extracted_date min_diff: 1
+2024-10-21 06:15:15,759 - curr_minute: 557
+2024-10-21 06:15:15,759 - premium clock: 09:17

@@ -1,0 +1,1155 @@
+2024-10-12 03:20:53,758 - Started collecting go charting data
+2024-10-12 03:21:07,925 - Started collecting go charting data
+2024-10-12 03:21:29,680 - Started collecting go charting data
+2024-10-12 03:21:30,012 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:23:45,907 - Started collecting go charting data
+2024-10-12 03:23:46,150 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:25:17,409 - Started collecting go charting data
+2024-10-12 03:25:17,584 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:27:55,972 - Started collecting go charting data
+2024-10-12 03:27:56,147 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:28:23,661 - Started collecting go charting data
+2024-10-12 03:28:23,850 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:29:10,047 - Started collecting go charting data
+2024-10-12 03:29:10,224 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:29:32,876 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:30:54,951 - Started collecting go charting data
+2024-10-12 03:30:55,136 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:32:23,242 - Started collecting go charting data
+2024-10-12 03:32:23,569 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:32:46,085 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:33:51,391 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:34:01,269 - Started collecting go charting data
+2024-10-12 03:34:01,446 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:35:24,428 - Started collecting go charting data
+2024-10-12 03:35:24,601 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:35:41,921 - Generated TOTP Code: 858445
+2024-10-12 03:35:56,457 - day: 260
+2024-10-12 03:35:56,457 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:36:21,259 - Started collecting go charting data
+2024-10-12 03:36:21,445 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:36:37,051 - day: 260
+2024-10-12 03:36:37,051 - day_diff: 0
+2024-10-12 03:36:37,061 - permormed shifts
+2024-10-12 03:36:37,522 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:37:42,707 - day: 260
+2024-10-12 03:37:42,707 - day_diff: 0
+2024-10-12 03:37:42,716 - permormed shifts
+2024-10-12 03:37:43,141 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:37:52,420 - Started collecting go charting data
+2024-10-12 03:37:52,606 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:38:08,206 - day: 260
+2024-10-12 03:38:08,206 - day_diff: 0
+2024-10-12 03:38:08,215 - permormed shifts
+2024-10-12 03:54:07,728 - day: 255
+2024-10-12 03:54:07,728 - day_diff: 5
+2024-10-12 03:54:28,679 - permormed shifts
+2024-10-12 03:55:09,932 - Found ExceptionRetrying after 1 Minute
+2024-10-12 03:55:18,026 - Started collecting go charting data
+2024-10-12 03:55:18,319 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 03:55:34,125 - day: 260
+2024-10-12 03:55:34,125 - day_diff: 0
+2024-10-12 03:55:34,135 - permormed shifts
+2024-10-12 03:56:47,011 - day: 255
+2024-10-12 03:56:47,011 - day_diff: 5
+2024-10-12 03:57:08,019 - permormed shifts
+2024-10-12 03:57:55,093 - Found ExceptionRetrying after 1 Minute
+2024-10-12 04:00:58,900 - Started collecting go charting data
+2024-10-12 04:00:59,326 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:02:15,943 - Started collecting go charting data
+2024-10-12 04:02:16,172 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:02:53,836 - Started collecting go charting data
+2024-10-12 04:02:54,075 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:03:01,580 - Generated TOTP Code: 839148
+2024-10-12 04:03:16,482 - day: 260
+2024-10-12 04:03:16,482 - day_diff: 0
+2024-10-12 04:03:16,492 - permormed shifts
+2024-10-12 04:19:06,352 - day: 255
+2024-10-12 04:19:06,353 - day_diff: 5
+2024-10-12 04:19:27,243 - permormed shifts
+2024-10-12 04:21:25,886 - Found ExceptionRetrying after 1 Minute
+2024-10-12 04:21:35,803 - Started collecting go charting data
+2024-10-12 04:21:36,379 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,422 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,435 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,460 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,486 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,504 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,594 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,625 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,655 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,671 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,689 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,772 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,787 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,818 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,910 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:36,969 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:37,164 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:37,220 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:37,297 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:21:37,598 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:22:07,303 - Generated TOTP Code: 109608
+2024-10-12 04:22:26,821 - Generated TOTP Code: 109608
+2024-10-12 04:23:11,398 - day: 260
+2024-10-12 04:23:11,403 - day_diff: 0
+2024-10-12 04:23:11,570 - permormed shifts
+2024-10-12 04:26:32,640 - Generated TOTP Code: 796497
+2024-10-12 04:44:25,485 - day: 240
+2024-10-12 04:44:25,486 - day_diff: 20
+2024-10-12 04:45:48,885 - permormed shifts
+2024-10-12 04:47:17,366 - Found ExceptionRetrying after 1 Minute
+2024-10-12 04:47:46,369 - Started collecting go charting data
+2024-10-12 04:47:46,963 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:46,964 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:46,964 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:46,970 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:46,970 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:46,982 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 04:47:59,327 - Generated TOTP Code: 710821
+2024-10-12 04:48:00,357 - Generated TOTP Code: 596586
+2024-10-12 04:48:01,265 - Generated TOTP Code: 596586
+2024-10-12 04:48:02,982 - Generated TOTP Code: 596586
+2024-10-12 04:48:03,665 - Generated TOTP Code: 596586
+2024-10-12 04:48:03,752 - Generated TOTP Code: 596586
+2024-10-12 04:48:21,903 - day: 240
+2024-10-12 04:48:21,904 - day_diff: 20
+2024-10-12 04:49:50,169 - permormed shifts
+2024-10-12 05:07:49,258 - day: 210
+2024-10-12 05:07:49,259 - day_diff: 50
+2024-10-12 05:11:20,976 - permormed shifts
+2024-10-12 05:29:08,643 - day: 180
+2024-10-12 05:29:08,643 - day_diff: 80
+2024-10-12 05:34:54,770 - permormed shifts
+2024-10-12 05:53:48,653 - Found ExceptionRetrying after 1 Minute
+2024-10-12 05:54:53,835 - Found ExceptionRetrying after 1 Minute
+2024-10-12 05:55:59,114 - Found ExceptionRetrying after 1 Minute
+2024-10-12 05:57:04,382 - Found ExceptionRetrying after 1 Minute
+2024-10-12 05:58:09,560 - Found ExceptionRetrying after 1 Minute
+2024-10-12 05:59:14,760 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:00:19,939 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:01:25,127 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:02:30,306 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:03:35,495 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:04:40,692 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:05:45,864 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:06:51,052 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:07:56,227 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:09:01,393 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:10:06,561 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:11:11,734 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:12:16,999 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:13:22,186 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:14:27,369 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:15:32,570 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:16:37,751 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:17:43,042 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:18:48,225 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:19:53,399 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:20:58,568 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:22:03,753 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:23:09,742 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:24:15,228 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:25:20,429 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:26:25,615 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:27:30,799 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:28:35,979 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:29:41,144 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:30:46,334 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:31:51,518 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:32:56,687 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:34:01,875 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:35:07,090 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:36:12,321 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:37:17,496 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:38:22,682 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:39:27,854 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:40:33,038 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:41:38,299 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:42:43,497 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:43:48,683 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:44:53,873 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:45:59,043 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:47:04,258 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:48:09,435 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:49:14,629 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:50:19,801 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:51:24,973 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:52:30,239 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:53:35,409 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:54:40,597 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:55:45,772 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:56:50,960 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:57:56,623 - Found ExceptionRetrying after 1 Minute
+2024-10-12 06:59:01,799 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:00:06,975 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:01:12,166 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:02:17,357 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:03:22,549 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:04:27,727 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:05:32,915 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:06:38,105 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:07:43,283 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:08:48,460 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:09:53,649 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:10:58,846 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:12:04,036 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:13:09,201 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:14:14,461 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:15:19,677 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:16:24,863 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:17:30,504 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:18:35,686 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:19:40,875 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:20:46,069 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:21:51,245 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:22:56,414 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:24:01,594 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:25:06,890 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:26:12,075 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:27:17,258 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:28:22,427 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:29:27,608 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:30:32,786 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:31:38,059 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:32:43,334 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:33:48,608 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:34:53,783 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:35:58,993 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:37:04,190 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:38:09,390 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:39:14,563 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:40:19,741 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:41:24,924 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:42:30,096 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:43:35,288 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:44:40,467 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:45:45,632 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:46:50,808 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:47:55,992 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:49:01,175 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:50:06,341 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:51:11,625 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:52:16,811 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:53:21,985 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:54:27,167 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:55:32,342 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:56:37,521 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:57:42,706 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:58:47,946 - Found ExceptionRetrying after 1 Minute
+2024-10-12 07:59:56,158 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:01:01,336 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:02:06,508 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:03:11,681 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:04:16,872 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:05:22,055 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:06:27,326 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:07:32,506 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:08:37,685 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:09:42,889 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:10:48,056 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:11:53,243 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:12:58,430 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:14:03,612 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:15:08,776 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:16:13,940 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:17:19,129 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:18:24,312 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:19:29,489 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:20:34,689 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:21:39,854 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:22:45,036 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:23:50,223 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:24:55,397 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:26:00,568 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:27:05,786 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:28:10,979 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:29:16,165 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:30:21,365 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:31:26,550 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:32:31,724 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:33:36,914 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:34:42,093 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:35:47,284 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:36:52,512 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:37:57,687 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:39:02,864 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:40:08,130 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:41:13,310 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:42:18,504 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:43:23,684 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:44:28,857 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:45:34,036 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:46:39,237 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:47:44,422 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:48:49,711 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:49:54,929 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:51:00,099 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:52:05,288 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:53:10,467 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:54:15,643 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:55:20,925 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:56:26,091 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:57:31,277 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:58:36,663 - Found ExceptionRetrying after 1 Minute
+2024-10-12 08:59:41,592 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:00:46,783 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:01:52,072 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:02:57,243 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:04:02,414 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:05:07,601 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:06:12,774 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:07:18,060 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:08:23,264 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:09:28,458 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:10:33,671 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:11:38,847 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:12:44,017 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:13:49,201 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:14:54,382 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:15:59,566 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:17:05,248 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:18:10,442 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:19:15,692 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:20:20,875 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:21:26,050 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:22:31,223 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:23:36,398 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:24:41,595 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:25:46,785 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:26:51,960 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:27:57,218 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:29:02,407 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:30:07,587 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:31:12,869 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:32:18,057 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:33:23,327 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:34:28,511 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:35:33,684 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:36:38,868 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:37:44,397 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:38:49,576 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:39:54,759 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:40:59,942 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:42:05,130 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:43:10,397 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:44:15,687 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:45:21,284 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:46:26,469 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:47:31,648 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:48:36,843 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:49:42,090 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:50:47,302 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:51:52,501 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:52:57,684 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:54:02,861 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:55:08,035 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:56:08,349 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:57:13,494 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:58:18,667 - Found ExceptionRetrying after 1 Minute
+2024-10-12 09:59:23,861 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:00:29,033 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:01:34,197 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:02:39,408 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:03:44,590 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:04:49,788 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:05:54,983 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:07:00,179 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:08:05,365 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:09:10,543 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:10:15,751 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:11:20,947 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:12:26,137 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:13:31,361 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:14:36,553 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:15:41,727 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:16:46,938 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:17:52,117 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:18:57,314 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:20:02,493 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:21:07,698 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:22:12,877 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:23:18,044 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:24:23,248 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:25:28,431 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:26:33,638 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:27:38,824 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:28:44,014 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:29:49,265 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:30:54,480 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:31:59,657 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:33:04,831 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:34:10,032 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:35:15,211 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:36:20,784 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:37:25,974 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:38:31,175 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:39:36,397 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:40:41,594 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:41:46,782 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:42:51,968 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:43:57,158 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:45:02,339 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:46:07,540 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:47:12,748 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:48:17,955 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:49:23,138 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:50:28,337 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:51:33,529 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:52:38,717 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:53:43,909 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:54:49,104 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:55:54,348 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:56:59,525 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:58:04,725 - Found ExceptionRetrying after 1 Minute
+2024-10-12 10:59:09,924 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:00:15,122 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:01:20,311 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:02:25,521 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:03:30,717 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:04:35,903 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:05:41,099 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:06:46,300 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:07:51,491 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:08:56,683 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:10:01,868 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:11:07,265 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:12:12,719 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:13:17,895 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:14:23,367 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:15:28,562 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:16:33,737 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:17:38,919 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:18:44,090 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:19:49,288 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:20:54,488 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:21:59,682 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:23:04,890 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:24:10,088 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:25:15,284 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:26:20,476 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:27:25,681 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:28:30,875 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:29:36,079 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:30:41,626 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:31:46,850 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:32:52,069 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:33:57,256 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:35:02,435 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:36:07,659 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:37:12,837 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:38:18,044 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:39:23,263 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:40:28,449 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:41:33,633 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:42:38,814 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:43:44,018 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:44:49,219 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:45:54,407 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:46:59,639 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:48:04,810 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:49:10,014 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:50:15,374 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:51:20,594 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:52:25,773 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:53:30,968 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:54:36,226 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:55:41,416 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:56:46,617 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:57:51,839 - Found ExceptionRetrying after 1 Minute
+2024-10-12 11:58:57,087 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:00:02,303 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:01:07,494 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:02:12,690 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:03:17,903 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:04:23,098 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:05:28,332 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:06:32,411 - Started collecting go charting data
+2024-10-12 12:06:33,399 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:33,472 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:33,513 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:33,665 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:33,677 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:34,326 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:06:44,984 - Generated TOTP Code: 666624
+2024-10-12 12:06:45,731 - Generated TOTP Code: 666624
+2024-10-12 12:06:47,009 - Generated TOTP Code: 666624
+2024-10-12 12:06:47,336 - Generated TOTP Code: 666624
+2024-10-12 12:06:47,789 - Generated TOTP Code: 666624
+2024-10-12 12:07:07,617 - day: 230
+2024-10-12 12:07:07,652 - day_diff: 30
+2024-10-12 12:07:07,669 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:08:14,345 - day: 230
+2024-10-12 12:08:14,345 - day_diff: 30
+2024-10-12 12:10:14,522 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:10:17,141 - Started collecting go charting data
+2024-10-12 12:12:18,696 - Started collecting go charting data
+2024-10-12 12:12:18,953 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:12:18,979 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:12:18,989 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:12:18,995 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:12:19,005 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:12:19,006 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,480 - Started collecting go charting data
+2024-10-12 12:20:16,480 - thread_no: 1
+2024-10-12 12:20:16,481 - profile: profile1
+2024-10-12 12:20:16,481 - thread_no: 2
+2024-10-12 12:20:16,481 - profile: profile2
+2024-10-12 12:20:16,481 - thread_no: 3
+2024-10-12 12:20:16,482 - thread_no: 4
+2024-10-12 12:20:16,482 - profile: profile3
+2024-10-12 12:20:16,486 - thread_no: 5
+2024-10-12 12:20:16,487 - profile: profile4
+2024-10-12 12:20:16,487 - thread_no: 6
+2024-10-12 12:20:16,488 - profile: profile5
+2024-10-12 12:20:16,496 - profile: profile6
+2024-10-12 12:20:16,763 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,770 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,781 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,787 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,794 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:20:16,801 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:02,952 - Started collecting go charting data
+2024-10-12 12:22:02,953 - thread_no: 1
+2024-10-12 12:22:02,953 - profile: profile1
+2024-10-12 12:22:02,953 - thread_no: 2
+2024-10-12 12:22:02,953 - profile: profile2
+2024-10-12 12:22:02,954 - thread_no: 3
+2024-10-12 12:22:02,954 - profile: profile3
+2024-10-12 12:22:02,954 - thread_no: 4
+2024-10-12 12:22:02,960 - thread_no: 5
+2024-10-12 12:22:02,960 - profile: profile4
+2024-10-12 12:22:02,961 - thread_no: 6
+2024-10-12 12:22:02,965 - profile: profile5
+2024-10-12 12:22:02,971 - profile: profile6
+2024-10-12 12:22:03,241 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:03,260 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:03,273 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:03,287 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:03,293 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:03,295 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:22:09,692 - Generated TOTP Code: 923146
+2024-10-12 12:22:10,147 - Generated TOTP Code: 923146
+2024-10-12 12:22:10,148 - Generated TOTP Code: 923146
+2024-10-12 12:22:10,148 - Generated TOTP Code: 923146
+2024-10-12 12:22:10,148 - Generated TOTP Code: 923146
+2024-10-12 12:22:10,149 - Generated TOTP Code: 923146
+2024-10-12 12:23:48,942 - Started collecting go charting data
+2024-10-12 12:23:48,943 - thread_no: 1
+2024-10-12 12:23:48,943 - profile: profile1
+2024-10-12 12:23:48,943 - thread_no: 2
+2024-10-12 12:23:48,944 - thread_no: 3
+2024-10-12 12:23:48,950 - profile: profile3
+2024-10-12 12:23:48,944 - thread_no: 4
+2024-10-12 12:23:48,949 - thread_no: 5
+2024-10-12 12:23:48,950 - thread_no: 6
+2024-10-12 12:23:48,952 - profile: profile6
+2024-10-12 12:23:48,951 - profile: profile4
+2024-10-12 12:23:48,951 - profile: profile5
+2024-10-12 12:23:48,944 - profile: profile2
+2024-10-12 12:23:49,204 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:49,246 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:49,251 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:49,267 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:49,285 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:49,288 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:23:57,947 - Generated TOTP Code: 007090
+2024-10-12 12:23:57,947 - Generated TOTP Code: 007090
+2024-10-12 12:23:57,948 - Generated TOTP Code: 007090
+2024-10-12 12:23:58,319 - Generated TOTP Code: 007090
+2024-10-12 12:23:58,320 - Generated TOTP Code: 007090
+2024-10-12 12:23:58,320 - Generated TOTP Code: 007090
+2024-10-12 12:24:37,656 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11ab8f520>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/864a126df5dc9cebdf327e35a26de053/element
+2024-10-12 12:24:37,659 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11ab8faf0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/864a126df5dc9cebdf327e35a26de053/element
+2024-10-12 12:24:37,661 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11abe4370>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/864a126df5dc9cebdf327e35a26de053/element
+2024-10-12 12:24:38,032 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11ab8eec0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8bab32417931b00a56de10cb94105452/element
+2024-10-12 12:24:38,034 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11abe4ac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8bab32417931b00a56de10cb94105452/element
+2024-10-12 12:24:38,037 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11abe4cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8bab32417931b00a56de10cb94105452/element
+2024-10-12 12:24:39,866 - Started collecting go charting data
+2024-10-12 12:24:39,867 - thread_no: 1
+2024-10-12 12:24:39,867 - profile: profile1
+2024-10-12 12:24:39,867 - thread_no: 2
+2024-10-12 12:24:39,868 - thread_no: 3
+2024-10-12 12:24:39,868 - thread_no: 4
+2024-10-12 12:24:39,874 - profile: profile4
+2024-10-12 12:24:39,868 - profile: profile2
+2024-10-12 12:24:39,873 - thread_no: 6
+2024-10-12 12:24:39,873 - profile: profile3
+2024-10-12 12:24:39,868 - thread_no: 5
+2024-10-12 12:24:39,875 - profile: profile6
+2024-10-12 12:24:39,878 - profile: profile5
+2024-10-12 12:24:40,195 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:40,205 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:40,214 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:40,227 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:40,234 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:40,242 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:24:48,868 - Generated TOTP Code: 291388
+2024-10-12 12:24:48,869 - Generated TOTP Code: 291388
+2024-10-12 12:24:48,869 - Generated TOTP Code: 291388
+2024-10-12 12:24:49,131 - Generated TOTP Code: 291388
+2024-10-12 12:24:49,132 - Generated TOTP Code: 291388
+2024-10-12 12:24:49,132 - Generated TOTP Code: 291388
+2024-10-12 12:25:34,443 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173cef20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5657d30ab51565c45d43676763cdd7d3/element
+2024-10-12 12:25:34,444 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173cec20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5657d30ab51565c45d43676763cdd7d3/element
+2024-10-12 12:25:34,446 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117420520>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5657d30ab51565c45d43676763cdd7d3/element
+2024-10-12 12:25:34,447 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173ce890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63c6eb5e85702311d7fee77743126624/element
+2024-10-12 12:25:34,449 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117420730>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63c6eb5e85702311d7fee77743126624/element
+2024-10-12 12:25:34,450 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174208e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63c6eb5e85702311d7fee77743126624/element
+2024-10-12 12:25:34,616 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173cd270>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/64085db0a644ee44259973f5cca4a432/element
+2024-10-12 12:25:34,617 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117420ee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/64085db0a644ee44259973f5cca4a432/element
+2024-10-12 12:25:34,618 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174210f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/64085db0a644ee44259973f5cca4a432/element
+2024-10-12 12:25:34,619 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173ce2f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/345a713059624a81c84bea9ce54dfdf0/element
+2024-10-12 12:25:34,620 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117421750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/345a713059624a81c84bea9ce54dfdf0/element
+2024-10-12 12:25:34,621 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117421900>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/345a713059624a81c84bea9ce54dfdf0/element
+2024-10-12 12:25:34,821 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173cf520>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/089cf807d55405769635930945ce8fd0/element
+2024-10-12 12:25:34,822 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1173cfa90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f8cafe43d7c980e8970dd9f5fbdb2cbb/element
+2024-10-12 12:25:34,823 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174220e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/089cf807d55405769635930945ce8fd0/element
+2024-10-12 12:25:34,824 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117422350>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f8cafe43d7c980e8970dd9f5fbdb2cbb/element
+2024-10-12 12:25:34,825 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117422530>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/089cf807d55405769635930945ce8fd0/element
+2024-10-12 12:25:34,826 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117422740>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f8cafe43d7c980e8970dd9f5fbdb2cbb/element
+2024-10-12 12:25:36,952 - Started collecting go charting data
+2024-10-12 12:25:36,953 - thread_no: 1
+2024-10-12 12:25:36,953 - thread_no: 2
+2024-10-12 12:25:36,953 - profile: profile2
+2024-10-12 12:25:36,953 - thread_no: 3
+2024-10-12 12:25:36,954 - profile: profile3
+2024-10-12 12:25:36,953 - profile: profile1
+2024-10-12 12:25:36,954 - thread_no: 4
+2024-10-12 12:25:36,954 - thread_no: 5
+2024-10-12 12:25:36,955 - thread_no: 6
+2024-10-12 12:25:36,962 - profile: profile4
+2024-10-12 12:25:36,962 - profile: profile5
+2024-10-12 12:25:36,963 - profile: profile6
+2024-10-12 12:25:37,246 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:25:37,270 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:25:37,282 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:25:37,291 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:25:37,293 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:25:37,311 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:26:15,099 - Generated TOTP Code: 625064
+2024-10-12 12:26:15,099 - Generated TOTP Code: 625064
+2024-10-12 12:26:15,099 - Generated TOTP Code: 625064
+2024-10-12 12:26:15,313 - Generated TOTP Code: 625064
+2024-10-12 12:26:15,313 - Generated TOTP Code: 625064
+2024-10-12 12:26:15,314 - Generated TOTP Code: 625064
+2024-10-12 12:26:38,297 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174439d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5bd63da4e2bf933c86c47d59b6ba51b6/element
+2024-10-12 12:26:38,297 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117443400>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f3bf04674926a073842a03c3c6d350d4/element
+2024-10-12 12:26:38,298 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117442770>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e7461031549e0c135eb3f196a880613d/element
+2024-10-12 12:26:38,299 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174980a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5bd63da4e2bf933c86c47d59b6ba51b6/element
+2024-10-12 12:26:38,299 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117498460>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f3bf04674926a073842a03c3c6d350d4/element
+2024-10-12 12:26:38,300 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117498490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e7461031549e0c135eb3f196a880613d/element
+2024-10-12 12:26:38,301 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1174987f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5bd63da4e2bf933c86c47d59b6ba51b6/element
+2024-10-12 12:26:38,301 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117498a00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f3bf04674926a073842a03c3c6d350d4/element
+2024-10-12 12:26:38,302 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117498c40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e7461031549e0c135eb3f196a880613d/element
+2024-10-12 12:26:38,379 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117442d70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8af53deb0dd9ab32973d47e8920de42/element
+2024-10-12 12:26:38,379 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117442110>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a824e5a4a4e350696e5f54fc7014db38/element
+2024-10-12 12:26:38,380 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117441210>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1374cab7d6cd5248441de36cccd4c72f/element
+2024-10-12 12:26:38,381 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117499ba0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a824e5a4a4e350696e5f54fc7014db38/element
+2024-10-12 12:26:38,381 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117499a80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8af53deb0dd9ab32973d47e8920de42/element
+2024-10-12 12:26:38,383 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117499e40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1374cab7d6cd5248441de36cccd4c72f/element
+2024-10-12 12:26:38,383 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11749a020>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a824e5a4a4e350696e5f54fc7014db38/element
+2024-10-12 12:26:38,384 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11749a230>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8af53deb0dd9ab32973d47e8920de42/element
+2024-10-12 12:26:38,384 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11749a470>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1374cab7d6cd5248441de36cccd4c72f/element
+2024-10-12 12:32:15,546 - Started collecting go charting data
+2024-10-12 12:32:15,547 - thread_no: 1
+2024-10-12 12:32:15,547 - profile: profile1
+2024-10-12 12:32:15,725 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:32:53,159 - Generated TOTP Code: 459441
+2024-10-12 12:33:05,262 - day: 255
+2024-10-12 12:33:05,262 - day_diff: 5
+2024-10-12 12:33:25,890 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:33:33,780 - Started collecting go charting data
+2024-10-12 12:33:33,781 - thread_no: 1
+2024-10-12 12:33:33,781 - profile: profile1
+2024-10-12 12:33:33,959 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:34:02,366 - day: 255
+2024-10-12 12:34:02,366 - day_diff: 5
+2024-10-12 12:34:12,591 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:34:33,202 - Started collecting go charting data
+2024-10-12 12:34:33,203 - thread_no: 2
+2024-10-12 12:34:33,203 - profile: profile2
+2024-10-12 12:34:33,386 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:35:01,781 - day: 255
+2024-10-12 12:35:01,791 - day_diff: 5
+2024-10-12 12:36:43,608 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:36:49,101 - Started collecting go charting data
+2024-10-12 12:36:49,101 - thread_no: 3
+2024-10-12 12:36:49,101 - profile: profile3
+2024-10-12 12:36:49,300 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:37:15,737 - day: 255
+2024-10-12 12:37:15,737 - day_diff: 5
+2024-10-12 12:37:37,066 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:37:41,440 - Started collecting go charting data
+2024-10-12 12:37:41,441 - thread_no: 4
+2024-10-12 12:37:41,441 - profile: profile4
+2024-10-12 12:37:41,638 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:08,287 - day: 255
+2024-10-12 12:38:08,287 - day_diff: 5
+2024-10-12 12:38:36,683 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:38:40,588 - Started collecting go charting data
+2024-10-12 12:38:40,588 - thread_no: 1
+2024-10-12 12:38:40,589 - profile: profile1
+2024-10-12 12:38:40,589 - thread_no: 2
+2024-10-12 12:38:40,590 - profile: profile2
+2024-10-12 12:38:40,589 - thread_no: 4
+2024-10-12 12:38:40,590 - thread_no: 5
+2024-10-12 12:38:40,589 - thread_no: 3
+2024-10-12 12:38:40,590 - thread_no: 6
+2024-10-12 12:38:40,590 - profile: profile4
+2024-10-12 12:38:40,596 - profile: profile5
+2024-10-12 12:38:40,599 - profile: profile3
+2024-10-12 12:38:40,600 - profile: profile6
+2024-10-12 12:38:40,870 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:40,882 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:40,888 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:40,904 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:40,913 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:38:40,914 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:39:07,481 - day: 235
+2024-10-12 12:39:07,485 - day_diff: 25
+2024-10-12 12:39:07,941 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:39:08,871 - day: 230
+2024-10-12 12:39:08,871 - day: 250
+2024-10-12 12:39:08,872 - day: 255
+2024-10-12 12:39:08,872 - day: 150
+2024-10-12 12:39:08,872 - day: 245
+2024-10-12 12:39:08,873 - day_diff: 15
+2024-10-12 12:39:08,873 - day_diff: 30
+2024-10-12 12:39:08,873 - day_diff: 5
+2024-10-12 12:39:08,873 - day_diff: 110
+2024-10-12 12:39:08,873 - day_diff: 10
+2024-10-12 12:39:09,645 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:39:09,646 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:39:09,652 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:39:09,652 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:40:09,376 - day: 235
+2024-10-12 12:40:09,376 - day_diff: 25
+2024-10-12 12:40:11,208 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:40:12,102 - day: 150
+2024-10-12 12:40:12,103 - day: 250
+2024-10-12 12:40:12,103 - day: 230
+2024-10-12 12:40:12,103 - day: 255
+2024-10-12 12:40:12,103 - day_diff: 110
+2024-10-12 12:40:12,103 - day_diff: 10
+2024-10-12 12:40:12,103 - day_diff: 30
+2024-10-12 12:40:12,103 - day_diff: 5
+2024-10-12 12:40:12,141 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:40:12,141 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:40:12,141 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:40:13,980 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:41:16,034 - day: 250
+2024-10-12 12:41:16,036 - day: 245
+2024-10-12 12:41:16,037 - day: 150
+2024-10-12 12:41:16,037 - day_diff: 10
+2024-10-12 12:41:16,037 - day_diff: 15
+2024-10-12 12:41:16,038 - day_diff: 110
+2024-10-12 12:41:16,040 - day: 230
+2024-10-12 12:41:16,041 - day: 235
+2024-10-12 12:41:16,043 - day_diff: 30
+2024-10-12 12:41:16,044 - day_diff: 25
+2024-10-12 12:41:17,632 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:41:17,633 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:41:17,636 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:41:17,636 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:41:18,078 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:42:19,119 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:42:20,089 - day: 250
+2024-10-12 12:42:20,089 - day_diff: 10
+2024-10-12 12:42:20,090 - day: 245
+2024-10-12 12:42:20,091 - day: 230
+2024-10-12 12:42:20,091 - day: 150
+2024-10-12 12:42:20,091 - day: 255
+2024-10-12 12:42:20,091 - day_diff: 15
+2024-10-12 12:42:20,092 - day_diff: 30
+2024-10-12 12:42:20,092 - day_diff: 110
+2024-10-12 12:42:20,092 - day_diff: 5
+2024-10-12 12:42:20,123 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:42:20,124 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:42:20,132 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:42:20,132 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:43:21,783 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:43:23,182 - day: 230
+2024-10-12 12:43:23,183 - day_diff: 30
+2024-10-12 12:43:23,189 - day: 235
+2024-10-12 12:43:23,190 - day_diff: 25
+2024-10-12 12:43:23,192 - day: 245
+2024-10-12 12:43:23,192 - day: 250
+2024-10-12 12:43:23,192 - day_diff: 15
+2024-10-12 12:43:23,193 - day_diff: 10
+2024-10-12 12:43:23,207 - day: 150
+2024-10-12 12:43:23,207 - day_diff: 110
+2024-10-12 12:43:23,228 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:43:23,232 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:43:23,233 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:43:23,233 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:44:23,159 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:44:23,167 - day: 255
+2024-10-12 12:44:23,167 - day_diff: 5
+2024-10-12 12:44:25,130 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:44:26,125 - day: 245
+2024-10-12 12:44:26,126 - day_diff: 15
+2024-10-12 12:44:26,126 - day: 235
+2024-10-12 12:44:26,126 - day: 230
+2024-10-12 12:44:26,125 - day: 250
+2024-10-12 12:44:26,126 - day_diff: 25
+2024-10-12 12:44:26,126 - day_diff: 30
+2024-10-12 12:44:26,126 - day_diff: 10
+2024-10-12 12:44:26,146 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:44:26,150 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:44:26,151 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:45:26,000 - day: 150
+2024-10-12 12:45:26,000 - day_diff: 110
+2024-10-12 12:45:26,094 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:45:29,501 - day: 255
+2024-10-12 12:45:29,501 - day_diff: 5
+2024-10-12 12:45:29,526 - day: 245
+2024-10-12 12:45:29,527 - day: 250
+2024-10-12 12:45:29,527 - day: 235
+2024-10-12 12:45:29,527 - day_diff: 15
+2024-10-12 12:45:29,527 - day_diff: 10
+2024-10-12 12:45:29,527 - day_diff: 25
+2024-10-12 12:45:29,541 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:45:29,554 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:45:29,554 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:45:29,990 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:27,524 - day: 150
+2024-10-12 12:46:27,524 - day_diff: 110
+2024-10-12 12:46:29,879 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:29,879 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:33,849 - day: 245
+2024-10-12 12:46:33,850 - day: 255
+2024-10-12 12:46:33,850 - day: 250
+2024-10-12 12:46:33,850 - day_diff: 15
+2024-10-12 12:46:33,850 - day: 230
+2024-10-12 12:46:33,851 - day_diff: 5
+2024-10-12 12:46:33,851 - day_diff: 10
+2024-10-12 12:46:33,851 - day_diff: 30
+2024-10-12 12:46:33,896 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:33,901 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:33,901 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:46:38,662 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:50:44,330 - Started collecting go charting data
+2024-10-12 12:50:44,331 - thread_no: 1
+2024-10-12 12:50:44,331 - profile: profile1
+2024-10-12 12:50:44,332 - thread_no: 2
+2024-10-12 12:50:44,332 - profile: profile2
+2024-10-12 12:50:44,332 - thread_no: 3
+2024-10-12 12:50:44,333 - thread_no: 4
+2024-10-12 12:50:44,333 - profile: profile3
+2024-10-12 12:50:44,333 - thread_no: 5
+2024-10-12 12:50:44,339 - thread_no: 6
+2024-10-12 12:50:44,340 - profile: profile4
+2024-10-12 12:50:44,345 - profile: profile5
+2024-10-12 12:50:44,346 - profile: profile6
+2024-10-12 12:50:45,058 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:45,059 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:45,059 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:45,060 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:45,060 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:45,061 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 12:50:51,305 - day: 150
+2024-10-12 12:50:51,305 - day_diff: 110
+2024-10-12 12:57:58,819 - Found ExceptionRetrying after 1 Minute
+2024-10-12 12:59:59,185 - Found ExceptionRetrying after 1 Minute
+2024-10-12 13:04:18,342 - Started collecting go charting data
+2024-10-12 13:04:18,343 - thread_no: 1
+2024-10-12 13:04:18,343 - profile: profile1
+2024-10-12 13:04:18,545 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 13:04:30,990 - Generated TOTP Code: 177064
+2024-10-12 13:05:47,567 - Started collecting go charting data
+2024-10-12 13:05:47,567 - thread_no: 1
+2024-10-12 13:05:47,567 - profile: profile1
+2024-10-12 13:05:47,808 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 13:06:14,638 - day: 255
+2024-10-12 13:06:14,639 - day_diff: 5
+2024-10-12 13:07:56,720 - permormed shifts
+2024-10-12 13:08:39,118 - Found ExceptionRetrying after 1 Minute
+2024-10-12 13:09:39,143 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x114461870>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ae1ab442f644e7ef26f7693fb2acfb7d/url
+2024-10-12 13:09:39,144 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x114461ba0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ae1ab442f644e7ef26f7693fb2acfb7d/url
+2024-10-12 13:09:39,145 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x114461d50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ae1ab442f644e7ef26f7693fb2acfb7d/url
+2024-10-12 13:09:39,146 - Found ExceptionRetrying after 1 Minute
+2024-10-12 13:10:21,740 - Started collecting go charting data
+2024-10-12 13:10:21,741 - thread_no: 1
+2024-10-12 13:10:21,741 - profile: profile1
+2024-10-12 13:10:22,225 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 13:10:48,846 - day: 255
+2024-10-12 13:10:48,846 - day_diff: 5
+2024-10-12 13:11:10,292 - permormed shifts
+2024-10-12 13:28:01,896 - day: 250
+2024-10-12 13:28:01,897 - day_diff: 10
+2024-10-12 13:28:44,592 - permormed shifts
+2024-10-12 13:52:36,765 - day: 245
+2024-10-12 13:52:36,766 - day_diff: 15
+2024-10-12 14:08:39,676 - permormed shifts
+2024-10-12 18:06:32,407 - day: 235
+2024-10-12 18:06:32,408 - day_diff: 25
+2024-10-12 18:27:52,663 - permormed shifts
+2024-10-12 19:35:39,020 - Found ExceptionRetrying after 1 Minute
+2024-10-12 19:35:55,686 - Started collecting go charting data
+2024-10-12 19:35:55,688 - thread_no: 1
+2024-10-12 19:35:55,688 - profile: profile1
+2024-10-12 19:35:56,246 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 19:38:52,402 - Started collecting go charting data
+2024-10-12 19:38:52,402 - thread_no: 1
+2024-10-12 19:38:52,403 - profile: profile1
+2024-10-12 19:38:52,574 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 19:39:06,246 - Generated TOTP Code: 452190
+2024-10-12 19:40:03,371 - Started collecting go charting data
+2024-10-12 19:40:03,371 - thread_no: 1
+2024-10-12 19:40:03,372 - profile: profile1
+2024-10-12 19:40:03,603 - The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.91); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+2024-10-12 19:40:17,198 - Generated TOTP Code: 687680
+2024-10-12 19:40:27,343 - day: 260
+2024-10-12 19:40:27,343 - day_diff: 30
+2024-10-12 19:42:31,144 - permormed shifts
+2024-10-13 02:30:32,973 - Found ExceptionRetrying after 1 Minute
+for i in range(100):
+    x_offset = 336 - (pixel_diff * (i))
+    actions.move_to_element_with_offset(graph_element, x_offset, 10).perform()
+    tooltip = driver.find_element(By.CLASS_NAME, 'tooltip-ohlc')
+    tooltip_children = tooltip.find_elements(By.XPATH, './*')
+    str = ''
+    for t in tooltip_children:
+        str += t.text
+    print(str)
+
+for i in range(30):
+    actions.move_to_element_with_offset(graph_element, -330, 10).perform()
+    time.sleep(5)
+    tooltip = driver.find_element(By.CLASS_NAME, 'tooltip-ohlc')
+    tooltip_children = tooltip.find_elements(By.XPATH, './*')
+    str = ''
+    for t in tooltip_children:
+        str += t.text
+    actions.move_to_element_with_offset(graph_element, 336, 10).perform()
+    time.sleep(5)
+    tooltip = driver.find_element(By.CLASS_NAME, 'tooltip-ohlc')
+    tooltip_children = tooltip.find_elements(By.XPATH, './*')
+    str2 = ''
+    for t in tooltip_children:
+        str2 += t.text
+    print("%s %s %s" % ((i+1), str, str2))
+    actions = actions.click_and_hold(graph_element)
+    actions = actions.move_by_offset(pixel_diff * 100, 0)
+    actions.release().perform()
+    time.sleep(2)
+
+
+time_range_map_list = [
+    {"day_diff": 0, "start": "14:11", "end": "09:34", "minute_diff": 100},
+    {"day_diff": 0, "start": "12:32", "end": "14:10", "minute_diff": 99},
+    {"day_diff": 0, "start": "10:52", "end": "12:31", "minute_diff": 100},
+    {"day_diff": 0.5, "start": "15:28", "end": "10:51", "minute_diff": 99},
+    {"day_diff": 1, "start": "13:48", "end": "15:27", "minute_diff": 100},
+    {"day_diff": 1, "start": "12:09", "end": "13:47", "minute_diff": 99},
+    {"day_diff": 1, "start": "10:29", "end": "12:08", "minute_diff": 100},
+    {"day_diff": 1.5, "start": "15:04", "end": "10:28", "minute_diff": 100},
+    {"day_diff": 2, "start": "13:25", "end": "15:03", "minute_diff": 99},
+    {"day_diff": 2, "start": "11:45", "end": "13:24", "minute_diff": 100},
+    {"day_diff": 2, "start": "10:06", "end": "11:44", "minute_diff": 99},
+    {"day_diff": 2.5, "start": "14:42", "end": "10:05", "minute_diff": 99},
+    {"day_diff": 3, "start": "13:03", "end": "14:41", "minute_diff": 99},
+    {"day_diff": 3, "start": "11:23", "end": "13:02", "minute_diff": 100},
+    {"day_diff": 3, "start": "09:44", "end": "11:22", "minute_diff": 99},
+    {"day_diff": 3.5, "start": "14:20", "end": "09:43", "minute_diff": 99},
+    {"day_diff": 4, "start": "12:40", "end": "14:19", "minute_diff": 100},
+    {"day_diff": 4, "start": "11:01", "end": "12:39", "minute_diff": 99},
+    {"day_diff": 4, "start": "09:21", "end": "11:00", "minute_diff": 100},
+    {"day_diff": 4.5, "start": "13:58", "end": "09:20", "minute_diff": 98},
+    {"day_diff": 5, "start": "12:18", "end": "13:57", "minute_diff": 100},
+    {"day_diff": 5, "start": "10:39", "end": "12:17", "minute_diff": 99},
+    {"day_diff": 5.5, "start": "15:14", "end": "10:38", "minute_diff": 100},
+    {"day_diff": 6, "start": "13:35", "end": "15:13", "minute_diff": 99},
+    {"day_diff": 6, "start": "11:51", "end": "13:34", "minute_diff": 104},
+    {"day_diff": 6, "start": "10:11", "end": "11:50", "minute_diff": 100},
+    {"day_diff": 6.5, "start": "14:45", "end": "10:10", "minute_diff": 101},
+    {"day_diff": 7, "start": "12:56", "end": "14:44", "minute_diff": 109},
+    {"day_diff": 7, "start": "09:53", "end": "12:55", "minute_diff": 183},
+    {"day_diff": 7.5, "start": "14:20", "end": "09:52", "minute_diff": 108},
+]
+
+for i in range(11):
+    actions = actions.click_and_hold(graph_element)
+    actions = actions.move_by_offset(common_pixel_diff * 100, 0)
+    actions.release().perform()
+    time.sleep(1)
+
+for i in range(1):
+    time.sleep(2)
+    actions.move_to_element_with_offset(graph_element, -0.36363636363637397, 10).perform()
+
+
+>> -330
+cropped_image = full_image.crop((110, 1190, 350, 1240))
+
+>> 330
+cropped_image = full_image.crop((1250 , 1190, 1490, 1240))
+
+while start_px <= 330:
+      actions.move_to_element_with_offset(graph_element, start_px, 10).perform()
+      time.sleep(1)
+      image_path = 'time_%s.png' % int(start_px + 330)
+      cropped_image_path = 'cropped_%s.png' % int(start_px + 330)
+      driver.save_screenshot(image_path)
+      time.sleep(1)
+      full_image = Image.open(image_path)
+      x = 110
+      if start_px > -330 + 6 * pixel_diff:
+          x = x + 2 * (start_px - (-330 + 6 * pixel_diff))
+      cropped_image = full_image.crop((x , 1190, x+18*2*pixel_diff, 1240))
+      print("%s %s" % (x, x+18*2*pixel_diff))
+      cropped_image.save(cropped_image_path)
+      extracted_text = pytesseract.image_to_string(cropped_image)
+      print("extracted_text: %s" % extracted_text)
+      time.sleep(1)
+      start_px += pixel_diff
+      os.remove(image_path)
+      os.remove(cropped_image_path)
+
+
+def login_into_go_charting_and_get_expiry_list(driver):
+    is_logged_in = False
+    login_button = driver.find_element(By.ID, 'login-avatar')
+    image_elements = login_button.find_elements(By.CSS_SELECTOR, 'img')
+    dismiss_buttons = driver.find_elements(By.ID, 'notification-dismiss')
+    if len(dismiss_buttons) > 0:
+        dismiss_buttons[0].click()
+        time.sleep(1)
+    if len(image_elements) > 0:
+        print("Already Logged In!")
+        is_logged_in = True
+    if not is_logged_in:
+        image_element = driver.find_element(By.CSS_SELECTOR, 'img[src="/assets/image/IN.svg"]')
+        driver.execute_script("arguments[0].style.display = 'none';", image_element)
+        time.sleep(1)  # Wait for changes to take effect
+        login_button = driver.find_element(By.ID, 'login-avatar')
+        login_button.click()
+        time.sleep(1)
+        email_input = driver.find_element(By.ID, 'email_field')
+        email_input.send_keys('chandan5284ssb@gmail.com')
+        password_input = driver.find_element(By.ID, 'password_field')
+        password_input.send_keys('xxxx')
+        time.sleep(0.1)
+        all_buttons = driver.find_elements(By.CSS_SELECTOR, 'button')
+        for button in all_buttons:
+            if button.text == 'Sign In':
+                print("Found Sign In Button")
+                button.click()
+                break
+        time.sleep(2)
+    collapse_button = driver.find_elements(By.ID, 'collapse-left-bar')[1]
+    collapse_button_style = collapse_button.get_attribute('style')
+    print(collapse_button_style)
+    if collapse_button_style == 'right: 5px;':
+        collapse_button.click()
+    time.sleep(1)
+    collapse_button = driver.find_elements(By.ID, 'collapse-left-bar')[1]
+    collapse_button_style = collapse_button.get_attribute('style')
+    search = driver.find_elements(By.CLASS_NAME, 'ticker-search')
+    print("search button length: %s" % len(search))
+    max_loop_count = 3
+    while len(search) < 2 and max_loop_count > 0:
+        expired_button = driver.find_element(By.ID, 'expiredfno-icontab')
+        expired_button.click()
+        time.sleep(1)
+        search = driver.find_elements(By.CLASS_NAME, 'ticker-search')
+        print("search button length: %s" % len(search))
+        max_loop_count -= 1
+    time.sleep(1)
+    search[1].clear()
+    search[1].send_keys('BANKNIFTY')
+    time.sleep(1)
+    button = driver.find_elements(By.CLASS_NAME, 'stunnerrow')
+    button[0].click()
+    time.sleep(1)
+    expiry_dropdown = driver.find_element(By.CSS_SELECTOR, 'select')
+    expiry_dropdown.click()
+    dropdown = Select(expiry_dropdown)
+    options = dropdown.options
+    option_texts = [option.text for option in options]
+    return option_texts
+
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("user-data-dir=/tmp/profile1")
+driver = webdriver.Chrome(options=chrome_options)
+The chromedriver version (128.0.6613.84) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (129.0.6668.103); currently, chromedriver 129.0.6668.100 is recommended for chrome 129.*, so it is advised to delete the driver in PATH and retry
+driver.get("https://gocharting.com/terminal?ticker=NSE:NIFTY")
+graph_element = driver.find_element(By.CLASS_NAME, 'gocharting-pos-abs')
+actions = ActionChains(driver)
+
+
+expiry_dropdown = driver.find_element(By.CSS_SELECTOR, 'select')
+expiry_dropdown.click()
+
+dropdown = Select(expiry_dropdown)
+dropdown.select_by_visible_text(nearest_expiry_dt)
+
+input = driver.find_elements(By.CSS_SELECTOR, 'input')
+input[2].clear()
+input[2].send_keys('51500')
+time.sleep(0.1)
+
+all_rows = driver.find_elements(By.CLASS_NAME, 'rt-tr-group')
+for row in all_rows:
+    if '51500' in row.text:
+        if 'PE' in row.text:
+            svg = row.find_element(By.CSS_SELECTOR, 'svg')
+            svg.click()
+            time.sleep(1)
+...
+period_dropdown = driver.find_element(By.ID, 'interval-selector-btn')
+period_dropdown.click()
+time.sleep(1)
+all_divs = driver.find_elements(By.CSS_SELECTOR, 'div')
+for div in all_divs:
+    if div is not None and div.get_attribute('title') == '1 Minute':
+        print("Found 1 Minute dropdown")
+        div.click()
+        break
+
+time.sleep(0.1)
+
+refresh_button = driver.find_element(By.ID, 'refresh-button')
+refresh_button.click()
+
+time.sleep(0.1)
+
+
+image_path = 'time_0.png'
+cropped_image_path = 'cropped_0.png'
+full_image = Image.open(image_path)
+cropped_image_path = 'temp_cropped_0.png'
+cropped_image = full_image.crop((110 , 1080, 350, 1130))
+cropped_image.save(cropped_image_path)
+
+
+for i in range(100):
+    all_connect_buttons = driver.find_elements(By.XPATH, "//span[text()='Connect']")
+    for j in range(len(all_connect_buttons)):
+        actions.click_and_hold(all_connect_buttons[j])
+        actions.release().perform()
+        time.sleep(1)
+        send_buttons = driver.find_elements(By.XPATH, "//span[text()='Send without a note']")
+        if len(send_buttons) > 0:
+            actions.click_and_hold(send_buttons[0])
+            actions.release().perform()
+    all_follow_buttons = driver.find_elements(By.XPATH, "//span[text()='Follow']")
+    for j in range(len(all_follow_buttons)):
+        actions.click_and_hold(all_follow_buttons[j])
+        actions.release().perform()
+        time.sleep(1)
+        send_buttons = driver.find_elements(By.XPATH, "//span[text()='Send without a note']")
+        if len(send_buttons) > 0:
+            actions.click_and_hold(send_buttons[0])
+            actions.release().perform()
+    time.sleep(1)
+    next_buttons = driver.find_elements(By.XPATH, "//span[text()='Next']")
+    if len(next_buttons) > 0:
+        actions.click_and_hold(next_buttons[0])
+        actions.release().perform()
+    time.sleep(3)
+
+

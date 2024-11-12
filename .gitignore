@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+trading_django/trading_django/__pycache__/
+*.pyc
+*/__pycache__/*
+trading_django/trading_django/__pycache__/*.pyc
